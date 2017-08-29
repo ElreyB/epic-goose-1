@@ -29,7 +29,9 @@ $(document).ready(function(){
     var hairInput = $("#hair").val();
     var animalsInput = $("#animals").val().split(",");
     var newUser = new User(name1Input, name2Input, fruitInput, hairInput);
-
+    
+    $.each(animalsInput, function(index, animal){
+      newUser.animals.push(animal);
     });
 
   });
