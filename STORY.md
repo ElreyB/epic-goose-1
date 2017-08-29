@@ -22,6 +22,29 @@ Ate their fruits and wore their flowers
 Pluck’d from bowers
 Where summer ripens at all hours?
 
+Would talk about the haunted glen,
+The wicked, quaint fruit-merchant men,
+Their fruits like honey to the throat
+But poison in the blood;
+
+
+Goblin's Song:
+Morning and evening
+Maids heard the goblins cry:
+“Come buy our orchard fruits,
+Come buy, come buy:
+Apples and quinces,
+Our grapes fresh from the vine,
+Pomegranates full and fine, 
+Wild free-born cranberries,
+Pine-apples, blackberries,
+Apricots, strawberries;—
+All ripe together
+In summer weather,—
+Morns that pass by,
+Sweet to tongue and sound to eye;
+Come buy, come buy.”
+
 
 Page One:
 Every evening, walking alongside the brook, PlayerOne would turn her head to better hear the strange song echoing out of the wooded glen. Blushing hot in the cooling evening air, PlayerTwo would try, unsuccessfully, to hide the embarrassment that the sound always made her feel, confused and unsure of where to look. The two would huddle close in the darkening light, locking arms and whispering to each other to be brave. "Stay close," said PlayerOne, lifting up her head to peer into the dark,
@@ -151,9 +174,18 @@ Page Eleven:
 Topping Quote:  For your sake I have braved the glen
                 And had to do with with goblin merchant men.
 
-Aching, limbs stinging and skin tingling, PlayerTwo snatched up her penny and tore through the forest back to PlayerOne. The sound of the penny in her pocket was the sound of triumph over the dark
+Aching, limbs stinging and skin tingling, PlayerTwo snatched up her penny and tore through the forest back to PlayerOne. Her heart was so light with joy and hope, as she flew home she laughed inside.
 
+"PlayerOne!" she cried as she ran up the garden. Calling for her sister to come and kiss her fruit stained cheek:
 
 Squeez'd from goblin fruits for you,
 Goblin pulp and goblin dew.
-...
+
+Horrified, PlayerOne, startled up from her chair and in fear that PlayerTwo had doomed herself for the sake of her sister, tore at her greying curls. Crying once again, PlayerOne kissed PlayerTwo's cheeks repeatedly, until her lips began to scorch. The second taste of the fruit was a wormwood feast, and a fire flew through her blood as life returned to PlayerOne. Light danced back into her eyes, the grey fled from her hairInput locks, and innocent laughter returned to her voice.  
+
+Page Twelve:
+
+Final Quote:  For there is no friend like a sister
+                To fetch one if one goes astray,
+                To lift one if one totters down,
+                To strengthen whilst one stands.
