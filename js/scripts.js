@@ -35,10 +35,10 @@ $(document).ready(function(){
     var hairInput = $("#hair").val();
     var animalsInput = $("#animals").val().split(",");
     var newUser = new User(name1Input, name2Input, fruitInput, hairInput);
-    $(animalsInput).each(function(){
-      var allAnimals = $(this).val();
-      newUser.animals.push(allAnimals);
+
+    $.each(animalsInput, function(index, animal){
+      newUser.animals.push(animal);
     });
-    console.log(newUser.name1);
+  
   });
 });
