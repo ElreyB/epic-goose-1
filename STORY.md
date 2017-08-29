@@ -28,6 +28,24 @@ Their fruits like honey to the throat
 But poison in the blood;
 
 
+Goblin's Song:
+Morning and evening
+Maids heard the goblins cry:
+“Come buy our orchard fruits,
+Come buy, come buy:
+Apples and quinces,
+Our grapes fresh from the vine,
+Pomegranates full and fine, 
+Wild free-born cranberries,
+Pine-apples, blackberries,
+Apricots, strawberries;—
+All ripe together
+In summer weather,—
+Morns that pass by,
+Sweet to tongue and sound to eye;
+Come buy, come buy.”
+
+
 Page One:
 Every evening, walking alongside the brook, PlayerOne would turn her head to better hear the strange song echoing out of the wooded glen. Blushing hot in the cooling evening air, PlayerTwo would try, unsuccessfully, to hide the embarrassment that the sound always made her feel, confused and unsure of where to look. The two would huddle close in the darkening light, locking arms and whispering to each other to be brave. "Stay close," said PlayerOne, lifting up her head to peer into the dark,
   "We must not look at goblin men,
