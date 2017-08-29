@@ -69,5 +69,24 @@ $(document).ready(function(){
       $(".fifthPage").addClass("hide");
       $(".sixthPage").removeClass("hide");
     });
+    $(".turn-page4").click(function(e){
+      e.preventDefault();
+      $(".sixthPage").addClass("hide");
+      $(".seventhPage").removeClass("hide");
+    });
+    $(".turn-page5").click(function(e){
+      e.preventDefault();
+      $(".seventhPage").addClass("hide");
+      $(".eigthPage").removeClass("hide");
+    });
+    $(".turn-page6").click(function(e){
+      e.preventDefault();
+      $(".eigthPage").addClass("hide");
+      $(".ninthPage").removeClass("hide");
+    });
+    $(".left9").click(function(e){
+      e.preventDefault();
+      $(".ninthPage").addClass("hide");
+    });
   });
 });
