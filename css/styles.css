@@ -31,3 +31,16 @@
   height: 700px;
   width: 1170px;
 }
+
+
+.img-container img {
+  max-width: 100%;
+  max-height: 450px;
+  margin-top: 150px;
+}
+
+.story-container p {
+  max-height: 490px;
+  margin-top: 100px;
+  overflow: auto;
+}
