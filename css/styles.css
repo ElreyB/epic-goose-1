@@ -4,10 +4,9 @@
 .cover-page {
   color: #9c7b43;
   background-image: url("../images/BookCover.jpg");
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   height: 700px;
   width: 900px;
   text-align: center;
@@ -18,4 +17,38 @@
   margin-top: 500px;
   background-color: #9c7b43;
   color: brown;
+}
+
+.quill-pages {
+  background-image: url("../images/primary/quillBook.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 700px;
+  width: 1170px;
+}
+
+
+.img-container img {
+  max-width: 100%;
+  max-height: 450px;
+  margin-top: 150px;
+}
+
+.story-container p {
+  max-height: 490px;
+  margin-top: 100px;
+  overflow: auto;
+}
+
+.good {
+  background-color: red;
+}
+
+.bad {
+  background-color: green;
 }
