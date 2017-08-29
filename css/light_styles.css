@@ -1,5 +1,14 @@
+body.light {
+  background-image: url("../images/primary/light_Background_Border.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  /*background-color: blue;*/
+}
+
 body.light p {
-  font-family: 'Princess Sofia', cursive;
+  font-family: 'Fondamento', cursive;
   font-size: 22px;
 }
 
@@ -11,8 +20,8 @@ body.light span.firstLetter {
   font-family: 'UnifrakturMaguntia', cursive;
 }
 
-body.light span.speak {
-  /*font-family: 'Over the Rainbow', cursive;*/
-  /*font-style: italic;*/
+body.light span.human-speak {
+  font-family: 'Princess Sofia', cursive;
+  font-style: italic;
   font-weight: bold;
 }
