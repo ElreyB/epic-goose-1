@@ -1,0 +1,18 @@
+body.light p {
+  font-family: 'Princess Sofia', cursive;
+  font-size: 60px;
+}
+
+body.light span.firstLetter {
+  font-size: 50px;
+  background-color: #7c6448;
+  padding-left: 4px;
+  padding-right: 4px;
+  font-family: 'UnifrakturMaguntia', cursive;
+}
+
+body.light span.speak {
+  font-family: 'Over the Rainbow', cursive;
+  /*font-style: italic;*/
+  font-weight: bold;
+}
