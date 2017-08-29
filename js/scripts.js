@@ -8,10 +8,6 @@ function User (name1, name2, fruit, hair) {
   this.animals = [];
 }
 
-// User.prototype. = function() {
-//
-// }
-
 var moral = 0;
 function setMoral(diff){
   moral += diff
@@ -22,8 +18,6 @@ function setMoral(diff){
     $("body").addClass(`dark${moral}`);
   }
 }
-
-
 
 // User Interface Logic
 $(document).ready(function(){
@@ -36,9 +30,7 @@ $(document).ready(function(){
     var animalsInput = $("#animals").val().split(",");
     var newUser = new User(name1Input, name2Input, fruitInput, hairInput);
 
-    $.each(animalsInput, function(index, animal){
-      newUser.animals.push(animal);
     });
-  
+
   });
 });
