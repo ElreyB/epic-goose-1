@@ -1,9 +1,9 @@
-body.light p {
-  font-family: 'Princess Sofia', cursive;
+body.dark p {
+  font-family: 'Over the Rainbow', cursive;
   font-size: 22px;
 }
 
-body.light span.firstLetter {
+body.dark span.firstLetter {
   font-size: 50px;
   background-color: #7c6448;
   padding-left: 4px;
