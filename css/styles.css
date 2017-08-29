@@ -66,25 +66,24 @@ p {
   background-color: #a0896b;
   font-family: 'Fondamento', cursive;
   color: rgb(255, 248, 209);
-  margin-bottom: 50px;
+  margin-top: 10px;
 }
-.blockquote {
+/*.blockquote {
   margin-top: 60px;
-}
+}*/
 .img-container img {
   max-width: 100%;
   max-height: 450px;
+  margin-top: 150px;
 }
-
 .story-container p {
   max-height: 490px;
+  margin-top: 100px;
   overflow: auto;
 }
-
 .good {
   background-color: red;
 }
-
 .bad {
   background-color: green;
 }
