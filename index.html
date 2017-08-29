@@ -11,63 +11,60 @@
   </head>
   <body>
     <div class="container">
-
-      <div class="instructions cover-page hide">
-        <div class="page-header">
-          <h1>Epic Goose<small><br>You decide what happens</small></h1>
+      <div class="cover-page">
+        <div class="instructions">
+          <div class="page-header">
+            <h1>Epic Goose<small><br>You decide what happens</small></h1>
+          </div>
+          <h4>Instructions:</h4>
+          <p>Welcome to Epic Goose! Where you decide what happens in your story.</p>
+          <p>First, you will ansswer a couple brief questions about yourself and you'll see your personalized story play out in our storybook. <br>Here are a few things to know about Epic Goose:</p>
+          <ol>
+            <li>Once you choose a path, there is no going back.</li>
+            <li>During your journey, you will be faced with decisions that will decide your fate within the story.</li>
+            <li>At the end of the story, you will see the consequences of your actions.</li>
+          </ol>
+          <p>If you prepared to see where your path leads within our story, "Goblin Market", continue on below:</p>
+          <button class="btn" type="button" id="begin">Begin</button>
         </div>
-        <h4>Instructions:</h4>
-        <p>Welcome to Epic Goose! Where you decide what happens in your story.</p>
-        <p>First, you will ansswer a couple brief questions about yourself and you'll see your personalized story play out in our storybook. <br>Here are a few things to know about Epic Goose:</p>
-        <ol>
-          <li>Once you choose a path, there is no going back.</li>
-          <li>During your journey, you will be faced with decisions that will decide your fate within the story.</li>
-          <li>At the end of the story, you will see the consequences of your actions.</li>
-        </ol>
-        <p>If you prepared to see where your path leads within our story, "Goblin Market", continue on below:</p>
-        <button class="btn">Begin</button>
-      </div>
-      <div class="cover-page hide">
-        <div class="form-page">
-          <h2>Please fill out the information below:</h2>
-          <form id="userInput">
-            <div class="form-group">
-              <label for="name1">A name</label>
-              <input id="name1" class="form-control" type="text">
-            </div>
-            <div class="form-group">
-              <label for="name2">Another name</label>
-              <input id="name2" class="form-control" type="text">
-            </div>
-            <div class="form-group">
-              <label for="fruit">A type of fruit</label>
-              <input id="fruit" class="form-control" type="text">
-            </div>
-            <div class="form-group">
-              <label for="animals">Five different animals (seperate by commas)</label>
-              <input id="animals" class="form-control" type="text">
-            </div>
-            <div class="form-group">
-              <label for="hair">A color of hair</label>
-              <input id="hair" class="form-control" type="text">
-            </div>
-            <button type="submit" class="btn">Begin your story!</button>
-          </form>
+        <div class="form-page hide">
+            <h2>Please fill out the information below:</h2>
+            <form id="userInput">
+              <div class="form-group">
+                <label for="name1">A name</label>
+                <input id="name1" class="form-control" type="text">
+              </div>
+              <div class="form-group">
+                <label for="name2">Another name</label>
+                <input id="name2" class="form-control" type="text">
+              </div>
+              <div class="form-group">
+                <label for="fruit">A type of fruit</label>
+                <input id="fruit" class="form-control" type="text">
+              </div>
+              <div class="form-group">
+                <label for="animals">Five different animals (seperate by commas)</label>
+                <input id="animals" class="form-control" type="text">
+              </div>
+              <div class="form-group">
+                <label for="hair">A color of hair</label>
+                <input id="hair" class="form-control" type="text">
+              </div>
+              <button type="submit" class="btn">Begin your story!</button>
+            </form>
+          </div>
+        <div class="book-cover hide">
+          <h1>Goblin Market</h1>
+          <h5>Story by: Christina Rossetti</h5>
+          <img src="" alt="">
+          <h5>Retold by: Elrey Belmonti, Megan Olson, and L.d. MacKrell</h5>
+          <button type="button" class="btn" id="open-book">Open Book</button>
         </div>
       </div>
-
-      <div class="cover-page hide">
-        <h1>Goblin Market</h1>
-        <h5>Story by: Christina Rossetti</h5>
-        <img src="" alt="">
-        <h5>Retold by: Elrey Belmonti, Megan Olson, and L.d. MacKrell</h5>
-        <button type="button" class="btn" id="open-book">Open Book</button>
-      </div>
-
-      <div class="quill-pages hide">
+      <div class="firstPage quill-pages hide">
         <div class="row">
           <div class="col-md-4 col-md-offset-1 story-container">
-            <p id="page1"><span class="firstLetter">E</span>very evening, walking alongside the brook, <span class="PlayerOne"></span> would turn her head to better hear the strange song echoing out of the wooded glen. Blushing hot in the cooling evening air, <span class="PlayerTwo"></span> would try, unsuccessfully, to hide the embarrassment that the sound always made her feel, confused and unsure of where to look. The two would huddle close in the darkening light, locking arms and whispering to each other to be brave. "Stay close," said <span class="PlayerOne"></span>, lifting up her head to peer into the dark, <br><br>
+            <p><span class="firstLetter">E</span>very evening, walking alongside the brook, <span class="PlayerOne"></span> would turn her head to better hear the strange song echoing out of the wooded glen. Blushing hot in the cooling evening air, <span class="PlayerTwo"></span> would try, unsuccessfully, to hide the embarrassment that the sound always made her feel, confused and unsure of where to look. The two would huddle close in the darkening light, locking arms and whispering to each other to be brave. "Stay close," said <span class="PlayerOne"></span>, lifting up her head to peer into the dark, <br><br>
               "We must not look at goblin men,<br>
               We must not buy their fruits:<br>
               Who knows upon what soil they fed <br>
@@ -85,7 +82,7 @@
           </div>
         </div>
       </div>
-      <div class="quill-pages hide">
+      <div class="secondPage quill-pages hide">
         <div class="row">
           <div class="col-md-4 col-md-offset-1 story-container">
             <p id="page2"><span class="firstLetter">"D</span>on't look" cried <span class="PlayerTwo"></span>, "<span class="PlayerOne"></span>, <span class="PlayerOne"></span>. We mustn't look at goblin men!" covering her eyes so she wouldn't give in to her own curiosity. <span class="PlayerOwo"></span> ignored <span class="PlayerTwo"></span>'s caution and described in an excited whisper each odd and fantastic creature as it came into view. They were men, of a sort, with animal features rarely seen in those who walked on two legs. Some had tails and others pointed noses, some were plummed in feathers, others covered in quills. In their paws and hands, they carried baskets and shiny plates weighed down with brightly colored and unfamiliar fruit.<br>
@@ -103,14 +100,14 @@
         </div>
         <div class="row">
           <div class="col-md-1 col-md-offset-7">
-            <button type="button" class="btn col-md-12 choice">Good</button>
+            <button type="button" class="btn col-md-12 choice left2">Left</button>
           </div>
           <div class="col-md-1 col-md-offset-2">
-            <button type="button" class="btn col-md-12 choice">Bad</button>
+            <button type="button" class="btn col-md-12 choice right2">Right</button>
           </div>
         </div>
       </div>
-      <div class="quill-pages hide">
+      <div class="thirdPage quill-pages hide">
         <div class="row">
           <div class="col-md-4 col-md-offset-1 story-container ">
             <p id="page3"><span class="firstLetter">T</span>oo curious to feel fear of <span class="PlayerTwo"></span>, <span class="playerOne"></span> stretched up onto her toes to better see the troop of merchantmen.<br><br>
@@ -134,14 +131,14 @@
         </div>
         <div class="row">
           <div class="col-md-1 col-md-offset-7">
-            <button type="button" class="btn col-md-12 choice">Left</button>
+            <button type="button" class="btn col-md-12 choice left3">Left</button>
           </div>
           <div class="col-md-1 col-md-offset-2">
-            <button type="button" class="btn col-md-12 choice">Right</button>
+            <button type="button" class="btn col-md-12 choice right3">Right</button>
           </div>
         </div>
       </div>
-      <div class="quill-pages hide">
+      <div class="fourthPage quill-pages hide">
         <div class="row">
           <div class="col-md-4 col-md-offset-1 story-container">
             <p id="page4"><span class="firstLetter">P</span>olitely, <span class="playerOne"></span> explained that she did not have any money and would not be able to purchase any of the beautiful fruit. She could barely believe her sweet-toothed luck when the goblins stated their price:
@@ -156,11 +153,11 @@
         </div>
         <div class="row">
           <div class="col-md-1 col-md-offset-10">
-            <button type="button" class="btn col-md-10 choice turn-page">Next</button>
+            <button type="button" class="btn col-md-10 choice turn-page2">Next</button>
           </div>
         </div>
       </div>
-      <div class="quill-pages hide">
+      <div class="fifthPage quill-pages hide">
         <div class="row">
           <div class="col-md-4 col-md-offset-1 story-container">
             <p id="page5"><span class="firstLetter">T</span>he sisters met at the gate, concern making <span class="playerTwo"></span>'s words harsh. "Where have you been? It's much to late for anyone to be in the woods alone." <span class="playerTwo"></span> reminded <span class="playerOne"></span> of the neighbor, Jeanie, who had dallied with the goblin men one day. Engaged to be married, she died a maid obsessed with finding the goblin men ever after.<br><br>
@@ -177,11 +174,11 @@
         </div>
         <div class="row">
           <div class="col-md-1 col-md-offset-10">
-            <button type="button" class="btn col-md-10 choice page-turn">Next</button>
+            <button type="button" class="btn col-md-10 choice page-turn3">Next</button>
           </div>
         </div>
       </div>
-      <div class="quill-pages hide">
+      <div class="sixthPage quill-pages hide">
         <div class="row">
           <div class="col-md-4 col-md-offset-1 story-container">
             <p id="page6"><span class="firstLetter">"D</span>on't look" cried PlayerTwo, "PlayerOne, PlayerOne. We mustn't look at goblin men!" covering her eyes so she wouldn't give in to her own curiosity. PlayerOne ignored PlayerTwo's caution and described in an excited whisper each odd and fantastic creature as it came into view. They were men, of a sort, with animal features rarely seen in those who walked on two legs. Some had tails and others pointed noses, some were plummed in feathers, others covered in quills. In their paws and hands, they carried baskets and shiny plates weighed down with brightly colored and unfamiliar fruit.<br>
@@ -197,14 +194,14 @@
         </div>
         <div class="row">
           <div class="col-md-1 col-md-offset-7">
-            <button type="button" class="btn col-md-12 choice">Good</button>
+            <button type="button" class="btn col-md-12 choice left6">Good</button>
           </div>
           <div class="col-md-1 col-md-offset-2">
-            <button type="button" class="btn col-md-12 choice">Bad</button>
+            <button type="button" class="btn col-md-12 choice right6">Bad</button>
           </div>
         </div>
       </div>
-      <div class="quill-pages hide">
+      <div class="seventhPage quill-pages hide">
         <div class="row">
           <div class="col-md-4 col-md-offset-1 story-container">
             <p id="page7"><span class="firstLetter">"D</span>on't look" cried PlayerTwo, "PlayerOne, PlayerOne. We mustn't look at goblin men!" covering her eyes so she wouldn't give in to her own curiosity. PlayerOne ignored PlayerTwo's caution and described in an excited whisper each odd and fantastic creature as it came into view. They were men, of a sort, with animal features rarely seen in those who walked on two legs. Some had tails and others pointed noses, some were plummed in feathers, others covered in quills. In their paws and hands, they carried baskets and shiny plates weighed down with brightly colored and unfamiliar fruit.<br>
@@ -227,7 +224,7 @@
           </div>
         </div>
       </div>
-      <div class="quill-pages hide">
+      <div class="eigthPage quill-pages hide">
         <div class="row">
           <div class="col-md-4 col-md-offset-1 story-container">
             <p id="page8"><span class="firstLetter">"D</span>on't look" cried PlayerTwo, "PlayerOne, PlayerOne. We mustn't look at goblin men!" covering her eyes so she wouldn't give in to her own curiosity. PlayerOne ignored PlayerTwo's caution and described in an excited whisper each odd and fantastic creature as it came into view. They were men, of a sort, with animal features rarely seen in those who walked on two legs. Some had tails and others pointed noses, some were plummed in feathers, others covered in quills. In their paws and hands, they carried baskets and shiny plates weighed down with brightly colored and unfamiliar fruit.<br>
@@ -250,7 +247,7 @@
           </div>
         </div>
       </div>
-      <div class="quill-pages hide">
+      <div class="ninthPage quill-pages hide">
         <div class="row">
           <div class="col-md-4 col-md-offset-1 story-container">
             <p id="page9"><span class="firstLetter">"D</span>on't look" cried PlayerTwo, "PlayerOne, PlayerOne. We mustn't look at goblin men!" covering her eyes so she wouldn't give in to her own curiosity. PlayerOne ignored PlayerTwo's caution and described in an excited whisper each odd and fantastic creature as it came into view. They were men, of a sort, with animal features rarely seen in those who walked on two legs. Some had tails and others pointed noses, some were plummed in feathers, others covered in quills. In their paws and hands, they carried baskets and shiny plates weighed down with brightly colored and unfamiliar fruit.<br>

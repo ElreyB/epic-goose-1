@@ -21,8 +21,15 @@ function setMoral(diff){
 
 // User Interface Logic
 $(document).ready(function(){
+  $("button#begin").click(function(e){
+    e.preventDefault();
+    $(".instructions").addClass("hide");
+    $(".form-page").removeClass("hide");
+  });
   $("#userInput").submit(function(e){
     e.preventDefault();
+    $(".form-page").addClass("hide");
+    $(".book-cover").removeClass("hide");
     var name1Input = $("#name1").val();
     var name2Input = $("#name2").val();
     var fruitInput = $("#fruit").val();
@@ -31,6 +38,36 @@ $(document).ready(function(){
     var newUser = new User(name1Input, name2Input, fruitInput, hairInput);
     $.each(animalsInput, function(index, animal){
       newUser.animals.push(animal);
+    });
+    $("button#open-book").click(function(e){
+      e.preventDefault();
+      $(".cover-page").addClass("hide");
+      $(".firstPage").removeClass("hide");
+    });
+    $(".turn-page").click(function(e){
+      e.preventDefault();
+      $(".firstPage").addClass("hide");
+      $(".secondPage").removeClass("hide");
+    });
+    $(".right2").click(function(e) {
+      e.preventDefault();
+      $(".secondPage").addClass("hide");
+      $(".thirdPage").removeClass("hide");
+    });
+    $(".left3").click(function(e){
+      e.preventDefault();
+      $(".thirdPage").addClass("hide");
+      $(".fourthPage").removeClass("hide");
+    });
+    $(".turn-page2").click(function(e){
+      e.preventDefault();
+      $(".fourthPage").addClass("hide");
+      $(".fifthPage").removeClass("hide");
+    });
+    $(".turn-page3").click(function(e){
+      e.preventDefault();
+      $(".fifthPage").addClass("hide");
+      $(".sixthPage").removeClass("hide");
     });
   });
 });
