@@ -4,9 +4,6 @@
 .cover-page {
   color: #9c7b43;
   background-image: url("../images/BookCover.jpg");
-  position: relative;
-  /*height: 1162px;
-  width: 1425px;*/
   text-align: center;
   font-family: 'Fondamento', cursive;
 }
@@ -17,6 +14,10 @@
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .firstLetter {
@@ -28,16 +29,19 @@ p {
   font-size: 17px;
   font-family:'Fondamento', cursive;
 }
+
 #open-book {
   margin-top: 300px;
   background-color: #9c7b43;
   color: brown;
 }
+
 .reRead {
   background-color: #a0896b;
   font-family: 'Fondamento', cursive;
   color: rgb(255, 248, 209);
 }
+
 .moral {
   color: #9c7b43;
   background-image: url("../images/BookCover.jpg");
@@ -47,19 +51,15 @@ p {
   text-align: center;
   font-family: 'Fondamento', cursive;
 }
+
 .moral p {
   font-size: 50px;
 }
+
 .quill-pages {
   background-image: url("../images/primary/quillBook.jpg");
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
+
 .choice {
   background-color: #a0896b;
   font-family: 'Fondamento', cursive;
@@ -72,14 +72,17 @@ p {
   max-height: 450px;
   margin-top: 150px;
 }
+
 .story-container p {
   max-height: 490px;
   margin-top: 100px;
   overflow: auto;
 }
+
 .good {
   background-color: red;
 }
+
 .bad {
   background-color: green;
 }
