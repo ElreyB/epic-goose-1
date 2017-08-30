@@ -100,5 +100,8 @@ p {
   position: absolute;
   width: 307px;
   left: 700px;
-  bottom: 560px;
+  bottom: 550px;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 16px;
 }
