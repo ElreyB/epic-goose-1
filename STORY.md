@@ -51,7 +51,7 @@ As if in answer, the song echoed down, encircling the girls. "Come buy, come buy
 Page Two (secondPage):
 "Don't look" cried PlayerTwo, taking care to cover her eyes to lest she give in to her own curiosity. PlayerOne ignored PlayerTwo's caution and, in an excited whisper, described to her companion each odd and fantastic creature as it came into view. They were men, of a sort; most were quite small and had animal features rarely seen in those who walked on two legs. Some had tails and others pointed noses, some were plumed in feathers, others covered in quills. In their paws and hands, they carried baskets and shiny plates weighed down with brightly colored and unfamiliar fruit.
 
-Choice for PlayerTwo What do you do: Run *go to page 4* or Stay *go to page 30*
+Choice for PlayerTwo What do you do: Run *go to page 3* or Stay *go to page 30*
 
 Alternative Choice: Stay
 Page Thirty (Alternate):
