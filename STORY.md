@@ -105,10 +105,10 @@ Whether her shyness grew from her lack of money, or was awe of the strange coter
   "Come buy, come buy."
 As they filed away into the deep forest, the last of their number, a small inputAnimal5-faced goblin, scrabbled upon the uneven bank. One perfect inputFruit escaped from the basket balanced on his head and rolled down the hill where it came to a stop at PlayerOne's foot.
 
-PlayerOne Choice: Give PlayerTwo the fruit **go to page 7 (33)**/ eat the fruit **go to page 6 (32)**
+PlayerOne Choice: Give PlayerTwo the fruit *go to page 33*/ eat the fruit *go to page 32*
 
 
-Page Six (New: 32)
+Page ThirtyTwo:
 
 Default: Eat the Fruit
 
@@ -117,11 +117,11 @@ Topping Quote:  How fair the vine must grow
                 How warm the wind must blow
                 Through those fruit bushes.”
 
-The goblin's song was still echoing in her ears as PlayerOne snatched up the fruitInput and ran homewards. Just as she reached the end of the woods, her home visible in the deepening twilight, lit by lantern and candle, PlayerOne pulled out the fruit and ate it. It was beyond description, this fruit from an unknown orchard;  sweeter than honey in the rock and stronger than any wine brewed by man. She savored each bite and then sucked the juices from her fingers. Pocketing the kernel-stone, she brushed back her hair and walked up the garden path to where her sister, PlayerTwo awaited her at the gate.
+The goblin's song was still echoing in her ears as PlayerOne snatched up the fruitInput and ran homewards. She reached the end of the woods, where her home, lit by lantern and candle, was visible in the deepening twilight. PlayerOne pulled out the fruit and ate it. It was beyond description, this fruit from an unknown orchard;  sweeter than honey in the rock and stronger than any wine brewed by man. She savored each bite and then sucked the juices from her fingers. Pocketing the kernel-stone, she brushed back her hair and walked up the garden path to where her sister, PlayerTwo awaited her at the gate.
 
-PlayerOne Choice: Go home *go to page 9* or Stay with the Goblins *go to page 19*
+PlayerOne Choice: Go home *go to page 5* or Go away with the Goblins **go to page 19**
 
-Page Seven (New: 33):
+Page ThirtyThree:
 
 Alternative: Give Fruit to PlayerTwo
 
@@ -132,9 +132,9 @@ Topping Quote:  To-morrow night I will
 
 PlayerTwo met PlayerOne at the gate, concern making her words harsh. "Where have you been? It's much to late for anyone to be in the woods alone."
 
-"Nevermind that," said PlayerOne, "PlayerTwo, you will not believe what I have seen!" PlayerOne told PlayerTwo of the weird-ling men and the lovely fruit she had seen. Pitying PlayerTwo for missing the rare treat, PlayerOne offered her the fruitInput that had rolled from the goblin merchant's pack only to be rescued from the ministrations of the cold hard ground. She felt magnanimous in gifting the fruitInput to PlayerTwo as she would visit the goblin market promised the next day and bring back more of the fruit to share. *go to page 17*
+"Nevermind that," said PlayerOne, "PlayerTwo, you will not believe what I have seen!" PlayerOne told PlayerTwo of the weirdling men and the lovely fruit she had seen. Pitying PlayerTwo for missing the rare treat, PlayerOne offered her the fruitInput that had rolled from the goblin merchant's pack only to be rescued from the ministrations of the cold hard ground. She felt magnanimous in gifting the fruitInput to PlayerTwo as she would visit the goblin market promised the next day and bring back more of the fruit to share. *go to page 35*
 
-Page Seventeen: PlayerTwo eats the fruit and dies.
+Page ThirtyFive: PlayerTwo eats the fruit and dies.
 
 Topping Quote:  Sought them by night and day,
                 Found them no more, but dwindled and grew grey;
