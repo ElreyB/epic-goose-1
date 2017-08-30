@@ -38,7 +38,7 @@ Sweet to tongue and sound to eye;
 Come buy, come buy.”
 
 
-Page One:
+Page One (firstPage):
 Every evening, while walking alongside the brook, PlayerOne would tilt her head to better hear the strange song echoing out of the wooded glen. PlayerTwo would try, unsuccessfully, to hide the embarrassment that the sound always made her feel, cheeks flushing hot in the cooling evening air. The two would huddle close as the light faded, locking arms and whispering to each other to be brave. "Stay close," said PlayerOne, lifting up her head to peer into the dark,
   "We must not look at goblin men,
   We must not buy their fruits:
@@ -48,13 +48,13 @@ Every evening, while walking alongside the brook, PlayerOne would tilt her head 
 As if in answer, the song echoed down, encircling the girls. "Come buy, come buy," heralding the weird parade of creatures that hobbled towards them in the dying light. *go to page 2*
 
 
-Page Two:
+Page Two (secondPage):
 "Don't look" cried PlayerTwo, taking care to cover her eyes to lest she give in to her own curiosity. PlayerOne ignored PlayerTwo's caution and, in an excited whisper, described to her companion each odd and fantastic creature as it came into view. They were men, of a sort; most were quite small and had animal features rarely seen in those who walked on two legs. Some had tails and others pointed noses, some were plumed in feathers, others covered in quills. In their paws and hands, they carried baskets and shiny plates weighed down with brightly colored and unfamiliar fruit.
 
-Choice for PlayerTwo What do you do: Run *go to page 4* or Stay *go to page 3*
+Choice for PlayerTwo What do you do: Run *go to page 4* or Stay *go to page 30*
 
 Alternative Choice: Stay
-Page Three (Alternate):
+Page Thirty (Alternate):
 Topping Quote: "Their offers should not charm us,
                 Their evil gifts would harm us."
 
@@ -62,7 +62,7 @@ Frightened almost past bearing, but loathe to leave her less stalwart sister, Pl
 
 Default Choice: Run
 
-Page Four (Default):
+Page Three (Default):
 Topping Quote: "Their offers should not charm us,
                 Their evil gifts would harm us."
 
@@ -75,9 +75,21 @@ Horrified, PlayerTwo broke and, sticking her fingers in her ears, closed her eye
   One like a animalInput4 tumbled hurry skurry.
 The noisy assemblage slowed to a stop directly before PlayerOne, throwing glances between themselves and smiling at unknown brotherly pranks. As one, they revealed their wares, placing their baskets on the green moss or hoisting heavy golden plates dripping with brightly colored fruits. Cajoling, each offered PlayerOne their wares.
 
-Choice for PlayerOne: Speak to the Goblins *go to page 8* / Stay Silent *go to page 5*
+Choice for PlayerOne: Speak to the Goblins *go to page 4* / Stay Silent *go to page 31*
 
-Page Five:
+Default Choice: Speak to the Goblins
+
+Page Four:
+Topping Quote:  "Clearer than water flow'd that juice;
+She never tasted such before,"
+
+Politely, PlayerOne explained that she did not have any money and would not be able to purchase any of the beautiful fruit. With the luck of the sweet-toothed, the goblins suggested a different price:
+"You have much wealth upon your head,
+Buy from us with a hairInput curl."
+She clipped a lock and paid in full, after which she, shyly at first, accepted a beautiful fruitInput. Before long, she was gorging herself on fruit globes beyond description. They were unlike anything she'd ever tasted, fruits from that unknown orchard were sweeter than honey and stronger than any wine. PlayerOne ate until her lips were sore and face sticky from the juices, never feeling the slightest sickness despite the king's portion she consumed.
+Finally, not knowing if it was day or night, PlayerOne tossed aside the empty rinds and, on an impulse, gathered up one of the seed kernels before turning for home. *to to page 5*
+
+Page ThirtyOne:
 
 Alternative Choice: Stay Silent
 
@@ -93,10 +105,10 @@ Whether her shyness grew from her lack of money, or was awe of the strange coter
   "Come buy, come buy."
 As they filed away into the deep forest, the last of their number, a small inputAnimal5-faced goblin, scrabbled upon the uneven bank. One perfect inputFruit escaped from the basket balanced on his head and rolled down the hill where it came to a stop at PlayerOne's foot.
 
-PlayerOne Choice: Give PlayerTwo the fruit *go to page 7*/ eat the fruit *go to page 6*
+PlayerOne Choice: Give PlayerTwo the fruit **go to page 7 (33)**/ eat the fruit **go to page 6 (32)**
 
 
-Page Six:
+Page Six (New: 32)
 
 Default: Eat the Fruit
 
@@ -109,7 +121,7 @@ The goblin's song was still echoing in her ears as PlayerOne snatched up the fru
 
 PlayerOne Choice: Go home *go to page 9* or Stay with the Goblins *go to page 19*
 
-Page Seven:
+Page Seven (New: 33):
 
 Alternative: Give Fruit to PlayerTwo
 
@@ -140,19 +152,8 @@ As time passed, PlayerTwo became as if sick, no longer lighthearted nor taking j
 As the first snow fell, so did PlayerTwo, leaving her sister, PlayerOne bereft. On the twilight of that day, PlayerOne wept by the brook long past twilight and, over the rattle of her sobs, she one again caught the familiar tune. Faintly, she could hear the market-call blowing on the new winter breeze. *END*
 
 
-Default Choice: Speak to the Goblins
 
-Page Eight:
-Topping Quote:  "Clearer than water flow'd that juice;
-                She never tasted such before,"
-
-Politely, PlayerOne explained that she did not have any money and would not be able to purchase any of the beautiful fruit. With the luck of the sweet-toothed, the goblins suggested a different price:
-"You have much wealth upon your head,
-Buy from us with a hairInput curl."
-She clipped a lock and paid in full, after which she, shyly at first, accepted a beautiful fruitInput. Before long, she was gorging herself on fruit globes beyond description. They were unlike anything she'd ever tasted, fruits from that unknown orchard were sweeter than honey and stronger than any wine. PlayerOne ate until her lips were sore and face sticky from the juices, never feeling the slightest sickness despite the king's portion she consumed.
-Finally, not knowing if it was day or night, PlayerOne tossed aside the empty rinds and, on an impulse, gathered up one of the seed kernels before turning for home. *to to page 9*
-
-Page Nine:
+Page Five:
 PlayerTwo met PlayerOne at the gate, concern making her words harsh. "Where have you been? It's much to late for anyone to be in the woods alone." PlayerTwo reminded PlayerOne of the neighbor, Jeanie/possible name3, who had dallied with the goblin men one day. Engaged to be married, she died a maid obsessed with finding the goblin men ever after.
   "Sought them by night and day,
   Found them no more, but dwindled and grew grey;
@@ -160,9 +161,9 @@ PlayerTwo met PlayerOne at the gate, concern making her words harsh. "Where have
   While to this day no grass will grow
   Where she lies low:"
 
-"Nevermind that," said PlayerOne, "PlayerTwo, you will not believe what I have seen!" PlayerOne told PlayerTwo of the lovely fruit she had eaten. Even now, in the retelling, PlayerOne was still hungry for the fruit which only just now left her feeling uncomfortably full. Pitying PlayerTwo for missing the rare treat, PlayerOne promised to go the next day and bring back some of the fruit to share. *go to page 10*
+"Nevermind that," said PlayerOne, "PlayerTwo, you will not believe what I have seen!" PlayerOne told PlayerTwo of the lovely fruit she had eaten. Even now, in the retelling, PlayerOne hungered for the fruit which only just now left her feeling uncomfortably full. Pitying PlayerTwo for missing the rare treat, PlayerOne promised to go the next day and bring back some of the fruit to share. *go to page 6*
 
-Page Ten:
+Page Six:
 Rising early the next morning, PlayerOne and PlayerTwo set to their daily chores. PlayerTwo was bright and cheerful in her work, but PlayerOne was distracted, worn, and longing for nightfall. Finally, the day began to wind down just as the two went to fetch water from the reedy brook. The sunset threw shadows on the distant mountain crags, signaling the time for return to home and safety, but PlayerOne loitered and delayed. She was looking for some hint of the customary herd of figures to come racing, whisking, tumbling, hobbling out of the glen, but not a single paw or whisker was to be seen.
 
 Anxious, PlayerTwo urged:
@@ -171,9 +172,9 @@ Anxious, PlayerTwo urged:
   You should not loiter longer at this brook:
   Come with me home."
 
-PlayerOne felt cold fall over her as she realized that PlayerTwo alone could hear the goblin cry, "Come by our fruits, come buy." Never again would she taste the marvelous fruit and her heart seemed to creak like old wood with longing. *go to page 11*
+PlayerOne felt cold fall over her as she realized that PlayerTwo alone could hear the goblin cry, "Come by our fruits, come buy." Never again would she taste the marvelous fruit and her heart seemed to creak like old wood with longing. *go to page 7*
 
-Page Eleven:
+Page Seven:
 Topping Quote:  She never caught again the goblin cry:
                 "Come buy, come buy;" --
                 She never spied the goblin men
@@ -186,9 +187,9 @@ One day, PlayerOne recalled the fruitInput kernel-stone, secreted in her pocket 
   False waves in desert drouth
   With shade of leaf-crown'd trees,
   And burns the thirstier in the sandful breeze."
-No longer would PlayerOne tend to her chores or eat, her hairInput locks seemed to grey, and her days passed sitting listlessly in the chimney-nook. *go to page 12 or insert seed sidestory*
+No longer would PlayerOne tend to her chores or eat, her hairInput locks seemed to grey, and her days passed sitting listlessly in the chimney-nook. *go to page 8 or insert seed sidestory*
 
-Page Twelve:
+Page Twelve (New 8):
 
 Topping Quote:  At twilight, halted by the brook:
                 And for the first time in her life
