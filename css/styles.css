@@ -95,3 +95,10 @@ p {
 .book-cover h1 {
   margin-top: 124px;
 }
+
+.photo-quote {
+  position: absolute;
+  width: 307px;
+  left: 700px;
+  bottom: 560px;
+}
