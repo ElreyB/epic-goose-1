@@ -1,17 +1,9 @@
 quotes to use:
 
-Laura stared but did not stir,
-Long’d but had no money:
-The whisk-tail’d merchant bade her taste
-In tones as smooth as honey,
 The cat-faced purr’d,
 The rat-faced spoke a word
 Of welcome, and the snail-paced even was heard
 
-Backwards up the mossy glen
-Turn'd and troop'd the goblin men,
-With their shrill repeated cry,
-"Come buy, come buy."
 
 Beside the brook, along the glen,
 She heard the tramp of goblin men,
@@ -35,7 +27,7 @@ Maids heard the goblins cry:
 Come buy, come buy:
 Apples and quinces,
 Our grapes fresh from the vine,
-Pomegranates full and fine, 
+Pomegranates full and fine,
 Wild free-born cranberries,
 Pine-apples, blackberries,
 Apricots, strawberries;—
@@ -47,38 +39,57 @@ Come buy, come buy.”
 
 
 Page One:
-Every evening, walking alongside the brook, PlayerOne would turn her head to better hear the strange song echoing out of the wooded glen. Blushing hot in the cooling evening air, PlayerTwo would try, unsuccessfully, to hide the embarrassment that the sound always made her feel, confused and unsure of where to look. The two would huddle close in the darkening light, locking arms and whispering to each other to be brave. "Stay close," said PlayerOne, lifting up her head to peer into the dark,
+Every evening, while walking alongside the brook, PlayerOne would tilt her head to better hear the strange song echoing out of the wooded glen. PlayerTwo would try, unsuccessfully, to hide the embarrassment that the sound always made her feel, cheeks flushing hot in the cooling evening air. The two would huddle close as the light faded, locking arms and whispering to each other to be brave. "Stay close," said PlayerOne, lifting up her head to peer into the dark,
   "We must not look at goblin men,
   We must not buy their fruits:
   Who knows upon what soil they fed
   Their hungry thirsty roots?"
 
-As if in answer, the song echoed down, encircling the girls. "Come buy, come buy," heralded the arrival of the weird parade of creatures hobbling towards them in the dying light.
+As if in answer, the song echoed down, encircling the girls. "Come buy, come buy," heralding the weird parade of creatures that hobbled towards them in the dying light.
 
 
 Page Two:
-"Don't look" cried PlayerTwo, "PlayerOne, PlayerOne. We mustn't look at goblin men!" taking care to cover her eyes so she wouldn't give in to her own curiosity. PlayerOne ignored PlayerTwo's caution and, in an excited whisper, described each odd and fantastic creature as it came into view. They were men, of a sort, most were quite small and had animal features rarely seen in those who walked on two legs. Some had tails and others pointed noses, some were plummed in feathers, others covered in quills. In their paws and hands, they carried baskets and shiny plates weighed down with brightly colored and unfamiliar fruit.
+"Don't look" cried PlayerTwo, taking care to cover her eyes to lest she give in to her own curiosity. PlayerOne ignored PlayerTwo's caution and, in an excited whisper, described to her companion each odd and fantastic creature as it came into view. They were men, of a sort; most were quite small and had animal features rarely seen in those who walked on two legs. Some had tails and others pointed noses, some were plummed in feathers, others covered in quills. In their paws and hands, they carried baskets and shiny plates weighed down with brightly colored and unfamiliar fruit.
 
 Choice for PlayerTwo What do you do: Run or Stay
 
+Alternative Choice: Stay
+Page Three (Alternate):
 Topping Quote: "Their offers should not charm us,
                 Their evil gifts would harm us."
 
+Frightened almost past bearing, but loathe to leave her less stalwart sister, PlayerOne, in the path of the eerie procession, PlayerTwo marshaled her fear. Tightly entwining her fingers with those of PlayerOne's, she dropped her eyes to the mossy path and half-walked, half-dragged them both toward the safe harbor of home. Curious, but unwilling to vex her sister, PlayerTwo allowed herself to be stolen away, but not without much craning of her neck to spy the assembled crew. PlayerTwo, resolutely pledged that she would take care to turn home from fetching water at an earlier hour in days to come.
+
 Default Choice: Run
 
-Horrified, PlayerTwo broke and, sticking her fingers in her ears, closed her eyes and ran homeward.
+Page Three (Default):
+Topping Quote: "Their offers should not charm us,
+                Their evil gifts would harm us."
 
-Page Three:
-PlayerOne, too curious to feel fear of PlayerTwo, stretched up onto her toes to better see the troop of merchantmen.
+Horrified, PlayerTwo broke and, sticking her fingers in her ears, closed her eyes and ran homeward. PlayerOne, too curious to heed the fear of PlayerTwo, stretched up onto her toes to better see the troop of merchantmen.
   One had a animalInput1's face,
   One animalInput5 whisked a tail,
   One tramp'd at a animalInput2's pace,
   One crawl'd like a snail,
   One like a animalInput3 prowl'd obtuse and furry,
   One like a animalInput4 tumbled hurry skurry.
-The noisy assemblage slowed to a stop before PlayerOne, throwing glances between themselves and smiling at unknown brotherly pranks. As a one, they revealed their wares, placing their baskets on the green moss or hoisting heavy golden plates. Cajoling, each offered PlayerOne their wares.
+The noisy assemblage slowed to a stop directly before PlayerOne, throwing glances between themselves and smiling at unknown brotherly pranks. As one, they revealed their wares, placing their baskets on the green moss or hoisting heavy golden plates dripping with brightly colored fruits. Cajoling, each offered PlayerOne their wares.
 
 Choice for PlayerOne: Speak to the Goblins or Stay Silent
+
+Alternative Choice: Stay Silent
+
+Topping Quote:  PlayerOne stared but did not stir,
+                Long’d but had no money:
+                The whisk-tail’d merchant bade her taste
+                In tones as smooth as honey,
+
+Whether her shyness grew from her lack of money, or was awe of the strange coterie who addressed her, PlayerOne did not reply. Smiling politely with eyes cast to the edge of the moss at her feet she gave a brief shake of her head. Denying their pretty words and obsequious manners, PlayerOne would not look raise her head nor speak. Rebuffed, the merchantmen hoisted up their baskets and plates and
+  Backwards up the mossy glen
+  Turn'd and troop'd the goblin men,
+  With their shrill repeated cry,
+  "Come buy, come buy."
+As they filed away into the deep forest, the last of their number, a small inputAnimal5-faced goblin, scrabbled upon the uneven bank. One perfect inputFruit escaped from the basket balanced on his head and rolled down the hill where it came to a stop at PlayerOne's foot. 
 
 Default Choice: Speak to the Goblins
 
