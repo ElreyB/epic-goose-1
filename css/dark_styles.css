@@ -17,6 +17,7 @@ body.dark span.firstLetter {
   padding-left: 4px;
   padding-right: 4px;
   font-family: 'UnifrakturMaguntia', cursive;
+  background-color: #922c2c;
 }
 
 body.dark span.human-speak {
