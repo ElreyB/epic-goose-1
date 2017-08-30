@@ -139,6 +139,17 @@ $(document).ready(function(){
       $(".thirtyOnePage").addClass("hide");
       $(".thirtyTwoPage").removeClass("hide");
     });
+
+    $(".left32").click(function(e){
+      e.preventDefault();
+      $("body").addClass("light");
+      $(".thirtyTwoPage").addClass("hide");
+      $(".fifthPage").removeClass("hide");
+    });
+
+    // need path for right32
+
+    
 // add buttons
     $(".turn-page6").click(function(e){
       e.preventDefault();
