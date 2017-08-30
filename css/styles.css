@@ -15,7 +15,13 @@ body {
   text-align: center;
   font-family: 'Fondamento', cursive;
 }
-
+.ending p {
+  font-size: 80px;
+  margin-top: 100px;
+}
+.ending button {
+  margin-top: 350px;
+}
 .cover-page, .quill-pages {
   height: 700px;
   width: 1170px;
@@ -50,7 +56,7 @@ p {
   color: rgb(255, 248, 209);
 }
 
-.moral {
+/*.ending {
   color: #9c7b43;
   background-image: url("../images/BookCover.jpg");
   position: relative;
@@ -58,11 +64,11 @@ p {
   width: 1425px;
   text-align: center;
   font-family: 'Fondamento', cursive;
-}
+}*/
 
-.moral p {
+/*.ending p {
   font-size: 50px;
-}
+}*/
 
 .quill-pages {
   background-image: url("../images/primary/quillBook.jpg");
