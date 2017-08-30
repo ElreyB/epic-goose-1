@@ -66,14 +66,14 @@ $(document).ready(function(){
       e.preventDefault();
       $("body").addClass("dark");
       $(".secondPage").addClass("hide");
-      $(".thirtyPage").removeClass("hide");
+      $(".thirdPage").removeClass("hide");
     });
 
     $(".right2").click(function(e) {
       e.preventDefault();
       $("body").addClass("light");
       $(".secondPage").addClass("hide");
-      $(".thirdPage").removeClass("hide");
+      $(".thirtyPage").removeClass("hide");
     });
 
     $(".left3").click(function(e){
@@ -120,10 +120,29 @@ $(document).ready(function(){
       $(".eigthPage").addClass("hide");
       $(".ninthPage").removeClass("hide");
     });
+    $(".turn-page7").click(function(e){
+      e.preventDefault();
+      $("body").addClass("light");
+      $(".tenPage").addClass("hide");
+      $(".elevenPage").removeClass("hide");
+    });
+    $(".turn-page8").click(function(e){
+      e.preventDefault();
+      $("body").addClass("light");
+      $(".elevenPage").addClass("hide");
+      $(".twelvePage").removeClass("hide");
+    });
     $(".left9").click(function(e){
       e.preventDefault();
       $("body").addClass("light");
       $(".ninthPage").addClass("hide");
+      $(".tenPage").removeClass("hide");
+    });
+    $(".right9").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".ninthPage").addClass("hide");
+      $(".thirtyFourPage").removeClass("hide");
     });
 
     $(".left31").click(function(e){
@@ -149,7 +168,7 @@ $(document).ready(function(){
 
     // need path for right32
 
-    
+
 // add buttons
     $(".turn-page6").click(function(e){
       e.preventDefault();
