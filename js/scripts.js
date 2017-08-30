@@ -166,6 +166,35 @@ $(document).ready(function(){
       $(".fifthPage").removeClass("hide");
     });
 
+    $(".right32").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".thirtyTwoPage").addClass("hide");
+      $(".thirteenPage").removeClass("hide");
+    });
+
+    $(".turn-page9").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".thirtyThreePage").addClass("hide");
+      $(".thirtyFivePage").removeClass("hide");
+    });
+
+    // $(".left33").click(function(e){
+    //   e.preventDefault();
+    //   $("body").addClass("light");
+    //   $(".thirtyThreePage").addClass("hide");
+    //   $(".fifthPage").removeClass("hide");
+    // });
+    //
+    // $(".right33").click(function(e){
+    //   e.preventDefault();
+    //   $("body").addClass("dark");
+    //   $(".thirtyThreePage").addClass("hide");
+    //   $(".thirteenPage").removeClass("hide");
+    // });
+
+
     // need path for right32
 
 
