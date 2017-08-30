@@ -4,29 +4,32 @@
 .cover-page {
   color: #9c7b43;
   background-image: url("../images/BookCover.jpg");
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
   position: relative;
-  height: 1162px;
-  width: 1425px;
+  /*height: 1162px;
+  width: 1425px;*/
   text-align: center;
   font-family: 'Fondamento', cursive;
 }
+
+.cover-page, .quill-pages {
+  height: 700px;
+  width: 1170px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .firstLetter {
   font-family: 'UnifrakturMaguntia', cursive;
   font-size: 30px;
 }
-.form-control {
-  width: 500px;
-  margin-left: 33%;
-}
+
 p {
   font-size: 17px;
   font-family:'Fondamento', cursive;
 }
 #open-book {
-  margin-top: 500px;
+  margin-top: 300px;
   background-color: #9c7b43;
   color: brown;
 }
@@ -38,9 +41,6 @@ p {
 .moral {
   color: #9c7b43;
   background-image: url("../images/BookCover.jpg");
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
   position: relative;
   height: 1162px;
   width: 1425px;
@@ -59,8 +59,6 @@ p {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  height: 700px;
-  width: 1170px;
 }
 .choice {
   background-color: #a0896b;
@@ -68,9 +66,7 @@ p {
   color: rgb(255, 248, 209);
   margin-top: 10px;
 }
-/*.blockquote {
-  margin-top: 60px;
-}*/
+
 .img-container img {
   max-width: 100%;
   max-height: 450px;
@@ -86,4 +82,13 @@ p {
 }
 .bad {
   background-color: green;
+}
+
+.cover-content {
+  margin-top: 64px;
+  margin-left: 40px;
+}
+
+.book-cover h1 {
+  margin-top: 124px;
 }
