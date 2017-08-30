@@ -82,6 +82,14 @@ $(document).ready(function(){
       $(".thirdPage").addClass("hide");
       $(".fourthPage").removeClass("hide");
     });
+
+    $(".right3").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".thirdPage").addClass("hide");
+      $(".thirtyOnePage").removeClass("hide");
+    });
+
     $(".turn-page2").click(function(e){
       e.preventDefault();
       $("body").addClass("light");
@@ -117,6 +125,20 @@ $(document).ready(function(){
       $("body").addClass("light");
       $(".ninthPage").addClass("hide");
     });
+
+    $(".left31").click(function(e){
+      e.preventDefault();
+      $("body").addClass("light");
+      $(".thirtyOnePage").addClass("hide");
+      $(".thirtyThreePage").removeClass("hide");
+    });
+
+    $(".right31").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".thirtyOnePage").addClass("hide");
+      $(".thirtyTwoPage").removeClass("hide");
+    });
 // add buttons
     $(".turn-page6").click(function(e){
       e.preventDefault();
@@ -132,18 +154,8 @@ $(document).ready(function(){
       $(".ninthPage").removeClass("hide");
     });
 
-    $(".turn-page6").click(function(e){
-      e.preventDefault();
-      $("body").addClass("dark");
-      $(".eigthPage").addClass("hide");
-      $(".ninthPage").removeClass("hide");
-    });
 
-    $(".turn-page6").click(function(e){
-      e.preventDefault();
-      $("body").addClass("dark");
-      $(".eigthPage").addClass("hide");
-      $(".ninthPage").removeClass("hide");
-    });
+
+
   });
 });
