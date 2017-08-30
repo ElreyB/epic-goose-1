@@ -57,6 +57,7 @@ $(document).ready(function(){
 
     $(".turn-page").click(function(e){
      e.preventDefault();
+     $("body").addClass("light");
      $(".firstPage").addClass("hide");
      $(".secondPage").removeClass("hide");
    });
@@ -70,43 +71,79 @@ $(document).ready(function(){
 
     $(".right2").click(function(e) {
       e.preventDefault();
+      $("body").addClass("light");
       $(".secondPage").addClass("hide");
       $(".thirdPage").removeClass("hide");
     });
 
     $(".left3").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".thirdPage").addClass("hide");
       $(".fourthPage").removeClass("hide");
     });
     $(".turn-page2").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".fourthPage").addClass("hide");
       $(".fifthPage").removeClass("hide");
     });
     $(".turn-page3").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".fifthPage").addClass("hide");
       $(".sixthPage").removeClass("hide");
     });
     $(".turn-page4").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".sixthPage").addClass("hide");
       $(".seventhPage").removeClass("hide");
     });
     $(".turn-page5").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".seventhPage").addClass("hide");
       $(".eigthPage").removeClass("hide");
     });
     $(".turn-page6").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".eigthPage").addClass("hide");
       $(".ninthPage").removeClass("hide");
     });
     $(".left9").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".ninthPage").addClass("hide");
+    });
+// add buttons
+    $(".turn-page6").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".eigthPage").addClass("hide");
+      $(".ninthPage").removeClass("hide");
+    });
+
+    $(".turn-page6").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".eigthPage").addClass("hide");
+      $(".ninthPage").removeClass("hide");
+    });
+
+    $(".turn-page6").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".eigthPage").addClass("hide");
+      $(".ninthPage").removeClass("hide");
+    });
+
+    $(".turn-page6").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".eigthPage").addClass("hide");
+      $(".ninthPage").removeClass("hide");
     });
   });
 });
