@@ -254,7 +254,7 @@ Final Quote:  For there is no friend like a sister
 Lorem ipsum
 *END*
 
-Page Eighteen:
+**Page ThirtyFour:
 
 Alternative Choice for PlayerTwo: Eat the Fruit
 
@@ -263,9 +263,9 @@ Topping Quote:  PlayerOne talked about the haunted glen,
                 Their fruits like honey to the throat
                 But poison in the blood;
 
-PlayerTwo Choice: Go home *go to page 20* or Stay with the Goblins *go to page 21*
+PlayerTwo Choice: Go home *go to page 20* or Stay with the Goblins *go to page 21**
 
-Page Twenty:
+**Page Twenty:
 Default Choice for PlayerTwo: Go home and die with her sister
 
 Topping Quote:  Folks talked about the haunted glen,
@@ -273,9 +273,9 @@ Topping Quote:  Folks talked about the haunted glen,
                 Their fruits like honey to the throat
                 But poison in the blood;
 
-*END*
+*END**
 
-Page TwentyOne:
+**Page TwentyOne:
 Alternative Choice for PlayerTwo: Stay with the Goblins
 
 Topping Quote:  Took their gifts both choice and many,
@@ -283,9 +283,9 @@ Topping Quote:  Took their gifts both choice and many,
                 Pluck’d from bowers
                 Where summer ripens at all hours?
 
-*END*
+*END**
 
-Page Nineteen:
+**Page Nineteen:
 
 Alternative Choice for PlayerOne: Eat the Fruit and Stay with the Goblins
 
@@ -295,4 +295,4 @@ Topping Quote:  Took their gifts both choice and many,
                 Where summer ripens at all hours?
 
 
-*END*
+*END**
