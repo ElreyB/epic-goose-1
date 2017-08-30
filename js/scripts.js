@@ -39,8 +39,18 @@ $(document).ready(function(){
     $.each(animalsInput, function(index, animal){
       newUser.animals.push(animal);
     });
+    $.each(newUser.animals, function(index, animal){
+      $(".animalInput" + index).text(animal);
+      console.log(index + ":" + animal);
+    });
+    $(".playerOne").text(newUser.name1);
+    $(".playerTwo").text(newUser.name2);
+    $(".fruitInput").text(newUser.fruit);
+    $(".hairInput").text(newUser.hair);
+
     $("button#open-book").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".cover-page").addClass("hide");
       $(".firstPage").removeClass("hide");
     });
