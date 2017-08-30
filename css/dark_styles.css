@@ -19,8 +19,14 @@ body.dark span.firstLetter {
   font-family: 'UnifrakturMaguntia', cursive;
 }
 
-body.light span.speak {
-  /*font-family: 'Over the Rainbow', cursive;*/
-  /*font-style: italic;*/
+body.dark span.human-speak {
+  font-family: 'Princess Sofia', cursive;
+  font-style: italic;
+  font-weight: bold;
+}
+
+body.dark span.goblin-speak {
+  font-family: 'Griffy', cursive;
+  font-style: italic;
   font-weight: bold;
 }

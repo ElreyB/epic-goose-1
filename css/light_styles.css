@@ -4,7 +4,6 @@ body.light {
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
-  /*background-color: blue;*/
 }
 
 body.light p {
@@ -22,6 +21,12 @@ body.light span.firstLetter {
 
 body.light span.human-speak {
   font-family: 'Princess Sofia', cursive;
+  font-style: italic;
+  font-weight: bold;
+}
+
+body.light span.goblin-speak {
+  font-family: 'Griffy', cursive;
   font-style: italic;
   font-weight: bold;
 }
