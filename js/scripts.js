@@ -39,54 +39,111 @@ $(document).ready(function(){
     $.each(animalsInput, function(index, animal){
       newUser.animals.push(animal);
     });
+    $.each(newUser.animals, function(index, animal){
+      $(".animalInput" + index).text(animal);
+      console.log(index + ":" + animal);
+    });
+    $(".playerOne").text(newUser.name1);
+    $(".playerTwo").text(newUser.name2);
+    $(".fruitInput").text(newUser.fruit);
+    $(".hairInput").text(newUser.hair);
+
     $("button#open-book").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".cover-page").addClass("hide");
       $(".firstPage").removeClass("hide");
     });
+
     $(".turn-page").click(function(e){
+     e.preventDefault();
+     $("body").addClass("light");
+     $(".firstPage").addClass("hide");
+     $(".secondPage").removeClass("hide");
+   });
+
+    $(".left2").click(function(e) {
       e.preventDefault();
-      $(".firstPage").addClass("hide");
-      $(".secondPage").removeClass("hide");
+      $("body").addClass("dark");
+      $(".secondPage").addClass("hide");
+      $(".thirtyPage").removeClass("hide");
     });
+
     $(".right2").click(function(e) {
       e.preventDefault();
+      $("body").addClass("light");
       $(".secondPage").addClass("hide");
       $(".thirdPage").removeClass("hide");
     });
+
     $(".left3").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".thirdPage").addClass("hide");
       $(".fourthPage").removeClass("hide");
     });
     $(".turn-page2").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".fourthPage").addClass("hide");
       $(".fifthPage").removeClass("hide");
     });
     $(".turn-page3").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".fifthPage").addClass("hide");
       $(".sixthPage").removeClass("hide");
     });
     $(".turn-page4").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".sixthPage").addClass("hide");
       $(".seventhPage").removeClass("hide");
     });
     $(".turn-page5").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".seventhPage").addClass("hide");
       $(".eigthPage").removeClass("hide");
     });
     $(".turn-page6").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".eigthPage").addClass("hide");
       $(".ninthPage").removeClass("hide");
     });
     $(".left9").click(function(e){
       e.preventDefault();
+      $("body").addClass("light");
       $(".ninthPage").addClass("hide");
+    });
+// add buttons
+    $(".turn-page6").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".eigthPage").addClass("hide");
+      $(".ninthPage").removeClass("hide");
+    });
+
+    $(".turn-page6").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".eigthPage").addClass("hide");
+      $(".ninthPage").removeClass("hide");
+    });
+
+    $(".turn-page6").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".eigthPage").addClass("hide");
+      $(".ninthPage").removeClass("hide");
+    });
+
+    $(".turn-page6").click(function(e){
+      e.preventDefault();
+      $("body").addClass("dark");
+      $(".eigthPage").addClass("hide");
+      $(".ninthPage").removeClass("hide");
     });
   });
 });
