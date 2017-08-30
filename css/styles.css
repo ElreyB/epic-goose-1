@@ -1,6 +1,14 @@
 .hide {
   display: none;
 }
+body {
+  background-image: url("../images/primary/coverbg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
 .cover-page {
   color: #9c7b43;
   background-image: url("../images/BookCover.jpg");
