@@ -54,16 +54,26 @@ $(document).ready(function(){
       $(".cover-page").addClass("hide");
       $(".firstPage").removeClass("hide");
     });
+
     $(".turn-page").click(function(e){
+     e.preventDefault();
+     $(".firstPage").addClass("hide");
+     $(".secondPage").removeClass("hide");
+   });
+
+    $(".left2").click(function(e) {
       e.preventDefault();
-      $(".firstPage").addClass("hide");
-      $(".secondPage").removeClass("hide");
+      $("body").addClass("dark");
+      $(".secondPage").addClass("hide");
+      $(".thirtyPage").removeClass("hide");
     });
+
     $(".right2").click(function(e) {
       e.preventDefault();
       $(".secondPage").addClass("hide");
       $(".thirdPage").removeClass("hide");
     });
+
     $(".left3").click(function(e){
       e.preventDefault();
       $(".thirdPage").addClass("hide");
