@@ -21,18 +21,72 @@ function setMoral(diff){
 
 // User Interface Logic
 $(document).ready(function(){
+  $("button#begin").click(function(e){
+    e.preventDefault();
+    $(".instructions").addClass("hide");
+    $(".form-page").removeClass("hide");
+  });
   $("#userInput").submit(function(e){
     e.preventDefault();
+    $(".form-page").addClass("hide");
+    $(".book-cover").removeClass("hide");
     var name1Input = $("#name1").val();
     var name2Input = $("#name2").val();
     var fruitInput = $("#fruit").val();
     var hairInput = $("#hair").val();
     var animalsInput = $("#animals").val().split(",");
     var newUser = new User(name1Input, name2Input, fruitInput, hairInput);
-    
     $.each(animalsInput, function(index, animal){
       newUser.animals.push(animal);
     });
-
+    $("button#open-book").click(function(e){
+      e.preventDefault();
+      $(".cover-page").addClass("hide");
+      $(".firstPage").removeClass("hide");
+    });
+    $(".turn-page").click(function(e){
+      e.preventDefault();
+      $(".firstPage").addClass("hide");
+      $(".secondPage").removeClass("hide");
+    });
+    $(".right2").click(function(e) {
+      e.preventDefault();
+      $(".secondPage").addClass("hide");
+      $(".thirdPage").removeClass("hide");
+    });
+    $(".left3").click(function(e){
+      e.preventDefault();
+      $(".thirdPage").addClass("hide");
+      $(".fourthPage").removeClass("hide");
+    });
+    $(".turn-page2").click(function(e){
+      e.preventDefault();
+      $(".fourthPage").addClass("hide");
+      $(".fifthPage").removeClass("hide");
+    });
+    $(".turn-page3").click(function(e){
+      e.preventDefault();
+      $(".fifthPage").addClass("hide");
+      $(".sixthPage").removeClass("hide");
+    });
+    $(".turn-page4").click(function(e){
+      e.preventDefault();
+      $(".sixthPage").addClass("hide");
+      $(".seventhPage").removeClass("hide");
+    });
+    $(".turn-page5").click(function(e){
+      e.preventDefault();
+      $(".seventhPage").addClass("hide");
+      $(".eigthPage").removeClass("hide");
+    });
+    $(".turn-page6").click(function(e){
+      e.preventDefault();
+      $(".eigthPage").addClass("hide");
+      $(".ninthPage").removeClass("hide");
+    });
+    $(".left9").click(function(e){
+      e.preventDefault();
+      $(".ninthPage").addClass("hide");
+    });
   });
 });
