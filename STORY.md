@@ -119,7 +119,7 @@ Topping Quote:  How fair the vine must grow
 
 The goblin's song was still echoing in her ears as PlayerOne snatched up the fruitInput and ran homewards. She reached the end of the woods, where her home, lit by lantern and candle, was visible in the deepening twilight. PlayerOne pulled out the fruit and ate it. It was beyond description, this fruit from an unknown orchard;  sweeter than honey in the rock and stronger than any wine brewed by man. She savored each bite and then sucked the juices from her fingers. Pocketing the kernel-stone, she brushed back her hair and walked up the garden path to where her sister, PlayerTwo awaited her at the gate.
 
-PlayerOne Choice: Go home *go to page 5* or Go away with the Goblins **go to page 19**
+PlayerOne Choice: Go home *go to page 5* or Go away with the Goblins *go to page 13*
 
 Page ThirtyThree:
 
@@ -209,7 +209,7 @@ Topping Quote:  Nay, take a seat with us,
 
 "Good folk," said PlayerTwo. Tossing them her silver penny, held out her apron and bid them "Give me much and many, all that my penny will buy." Unlike merchants of the human sort, the goblins did not seem keen to accept PlayerTwo's proposed exchange. Instead, they bade her to sit and eat with them as their honored guest. After all, their wondrous fruits were ripe only fleetingly and would rapidly spoil if not presently enjoyed.
 
-Choice for PlayerTwo: Buy the Fruit *go to page 10* / Eat the Fruit **go to page 34**
+Choice for PlayerTwo: Buy the Fruit *go to page 10* / Eat the Fruit *go to page 34*
 
 Default Choice for PlayerTwo: Buy the Fruit
 
@@ -254,7 +254,7 @@ Final Quote:  For there is no friend like a sister
 Lorem ipsum
 *END*
 
-Page Eighteen:
+Page ThirtyFour:
 
 Alternative Choice for PlayerTwo: Eat the Fruit
 
@@ -263,9 +263,20 @@ Topping Quote:  PlayerOne talked about the haunted glen,
                 Their fruits like honey to the throat
                 But poison in the blood;
 
-PlayerTwo Choice: Go home *go to page 20* or Stay with the Goblins *go to page 21*
+PlayerTwo Choice: Go home *go to page 14* or Stay with the Goblins *go to page 15*
 
-Page Twenty:
+Page Thirteen:
+
+Alternative Choice for PlayerOne: Eat the Fruit and Stay with the Goblins
+
+Topping Quote:  Took their gifts both choice and many,
+Ate their fruits and wore their flowers
+Pluck’d from bowers
+Where summer ripens at all hours?
+
+*END*
+
+Page Fourteen:
 Default Choice for PlayerTwo: Go home and die with her sister
 
 Topping Quote:  Folks talked about the haunted glen,
@@ -275,24 +286,12 @@ Topping Quote:  Folks talked about the haunted glen,
 
 *END*
 
-Page TwentyOne:
+Page Fifteen:
 Alternative Choice for PlayerTwo: Stay with the Goblins
 
 Topping Quote:  Took their gifts both choice and many,
                 Ate their fruits and wore their flowers
                 Pluck’d from bowers
                 Where summer ripens at all hours?
-
-*END*
-
-Page Nineteen:
-
-Alternative Choice for PlayerOne: Eat the Fruit and Stay with the Goblins
-
-Topping Quote:  Took their gifts both choice and many,
-                Ate their fruits and wore their flowers
-                Pluck’d from bowers
-                Where summer ripens at all hours?
-
 
 *END*
