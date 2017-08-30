@@ -4,9 +4,6 @@
 .cover-page {
   color: #9c7b43;
   background-image: url("../images/BookCover.jpg");
-  position: relative;
-  /*height: 1162px;
-  width: 1425px;*/
   text-align: center;
   font-family: 'Fondamento', cursive;
 }
@@ -17,6 +14,10 @@
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .firstLetter {
@@ -52,13 +53,6 @@ p {
 }
 .quill-pages {
   background-image: url("../images/primary/quillBook.jpg");
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 .choice {
   background-color: #a0896b;
