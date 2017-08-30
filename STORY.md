@@ -189,7 +189,7 @@ One day, PlayerOne recalled the fruitInput kernel-stone, secreted in her pocket 
   And burns the thirstier in the sandful breeze."
 No longer would PlayerOne tend to her chores or eat, her hairInput locks seemed to grey, and her days passed sitting listlessly in the chimney-nook. *go to page 8 or insert seed sidestory*
 
-Page Twelve (New 8):
+Page Eight:
 
 Topping Quote:  At twilight, halted by the brook:
                 And for the first time in her life
@@ -200,20 +200,20 @@ PlayerTwo's heart ached for PlayerOne; her distress further increased by the now
   When they spied her peeping:
   Came towards her hobbling,
   Flying, running, leaping"
-The animalInput1-faced and animalInput2-faced, animalInput3- and animalInput4-like, snail-paced in a hurry, and the animalInput5-voiced surrounded her, stretching up panniers and plates of jewel-like fruits and fruitInput unearthly delights. *go to page 13*
+The animalInput1-faced and animalInput2-faced, animalInput3- and animalInput4-like, snail-paced in a hurry, and the animalInput5-voiced surrounded her, stretching up panniers and plates of jewel-like fruits and fruitInput unearthly delights. *go to page 9*
 
-Page Thirteen:
+Page Nine:
 
 Topping Quote:  Nay, take a seat with us,
                 Honour and eat with us,
 
 "Good folk," said PlayerTwo. Tossing them her silver penny, held out her apron and bid them "Give me much and many, all that my penny will buy." Unlike merchants of the human sort, the goblins did not seem keen to accept PlayerTwo's proposed exchange. Instead, they bade her to sit and eat with them as their honored guest. After all, their wondrous fruits were ripe only fleetingly and would rapidly spoil if not presently enjoyed.
 
-Choice for PlayerTwo: Buy the Fruit *go to page 14* / Eat the Fruit *go to page 18*
+Choice for PlayerTwo: Buy the Fruit *go to page 10* / Eat the Fruit **go to page 34**
 
 Default Choice for PlayerTwo: Buy the Fruit
 
-Page Fourteen:
+Page Ten:
 
 Topping quote:  Twitch'd her hair out by the roots,
                 Stamp'd upon her tender feet,
@@ -221,7 +221,7 @@ Topping quote:  Twitch'd her hair out by the roots,
                 Against her mouth to make her eat.
 
   "Thank you," said PlayerTwo, "But one waits at home alone for me...
-If you will not sell me any of your fruits, then give me back my silver penny." The once magnanimous smiles and cajoling voices turned hard and sharp, calling her "proud" and "uncivil". Wagging tails and purring made way for tail lashing and snarls and they began to jostle her and crowd. Claws began to rake at her and tore her gown, small paws pinching her black as ink, as the horde attempted to force upon her that which they previously tried to beguile.
+If you will not sell me any of your fruits, then give me back my silver penny." The once magnanimous smiles and cajoling voices turned hard and sharp, calling her "proud" and "uncivil". Wagging tails and purring transformed into tail lashing and snarls as they began to jostle and crowd her. Claws raked at her and tore her gown, small paws pinching her black as ink, as the horde attempted to force upon her that which they previously tried to beguile.
 
 Having expected no less, PlayerTwo "utter'd not a word;
 Would not open lip from lip
@@ -229,23 +229,23 @@ lest they should cram a mouthful in:
 But laugh'd in heart to feel the drip
 Of juice that syrrup'd all her face,
 
-The torment went on and on, until the cock crowed his morning warning and, exhausted by her resistance, the goblins flung back her penny and dispersed. Some sank into the ground like worms, some dived into the brook, others flew away on the gale and the last disappeared into the distance. *go to page 15*
+The torment went on and on, until the cock crowed his morning warning and, exhausted by her resistance, the goblins flung back her penny and dispersed. Some sank into the ground like worms, some dived into the brook, others flew away on the gale and the last disappeared into the distance. *go to page 11*
 
-Page Fifteen:
+Page Eleven:
 
 Topping Quote:  For your sake I have braved the glen
                 And had to do with with goblin merchant men.
 
-Aching, limbs stinging and skin tingling, PlayerTwo snatched up her penny and tore through the forest back to PlayerOne. Her heart was so light with joy and hope, as she flew home she laughed inside.
+Aching, limbs stinging, and skin tingling, PlayerTwo snatched up her penny and tore through the forest back to PlayerOne. Her heart was so light with joy and hope, as she flew home she laughed inside.
 
 "PlayerOne!" she cried as she ran up the garden. Calling for her sister to come and kiss her fruit stained cheek:
 
 Squeez'd from goblin fruits for you,
 Goblin pulp and goblin dew.
 
-Horrified, PlayerOne, startled up from her chair and in fear that PlayerTwo had doomed herself for the sake of her sister, tore at her greying curls. Crying once again, PlayerOne kissed PlayerTwo's cheeks repeatedly, until her lips began to scorch. The second taste of the fruit was a wormwood feast, and a fire flew through her blood as life returned to PlayerOne. Light danced back into her eyes, the grey fled from her hairInput locks, and innocent laughter returned to her voice.  *go to page 16*
+Horrified, PlayerOne, startled up from her chair and in fear that PlayerTwo had doomed herself for the sake of her sister, tore at her greying curls. Crying once again, PlayerOne kissed PlayerTwo's cheeks repeatedly, until her lips began to scorch. The second taste of the fruit was a wormwood feast, and a fire flew through her blood as life returned to PlayerOne. Light danced back into her eyes, the grey fled from her hairInput locks, and innocent laughter returned to her voice.  *go to page 12*
 
-Page Sixteen:
+Page Twelve:
 
 Final Quote:  For there is no friend like a sister
                 To fetch one if one goes astray,
