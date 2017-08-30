@@ -57,6 +57,7 @@ $(document).ready(function(){
 
     $(".turn-page").click(function(e){
      e.preventDefault();
+     $("body").removeClass("dark, light");
      $("body").addClass("light");
      $(".firstPage").addClass("hide");
      $(".secondPage").removeClass("hide");
@@ -64,6 +65,7 @@ $(document).ready(function(){
 
     $(".left2").click(function(e) {
       e.preventDefault();
+      $("body").removeClass("dark, light");
       $("body").addClass("dark");
       $(".secondPage").addClass("hide");
       $(".thirdPage").removeClass("hide");
@@ -71,6 +73,7 @@ $(document).ready(function(){
 
     $(".right2").click(function(e) {
       e.preventDefault();
+      $("body").removeClass("dark, light");
       $("body").addClass("light");
       $(".secondPage").addClass("hide");
       $(".thirtyPage").removeClass("hide");
@@ -78,26 +81,30 @@ $(document).ready(function(){
 
     $(".left3").click(function(e){
       e.preventDefault();
-      $("body").addClass("light");
+      $("body").removeClass("dark, light");
+      $("body").addClass("dark");
       $(".thirdPage").addClass("hide");
       $(".fourthPage").removeClass("hide");
     });
 
     $(".right3").click(function(e){
       e.preventDefault();
-      $("body").addClass("dark");
+      $("body").removeClass("dark, light");
+      $("body").addClass("light");
       $(".thirdPage").addClass("hide");
       $(".thirtyOnePage").removeClass("hide");
     });
 
     $(".turn-page2").click(function(e){
       e.preventDefault();
+      $("body").removeClass("dark, light");
       $("body").addClass("light");
       $(".fourthPage").addClass("hide");
       $(".fifthPage").removeClass("hide");
     });
     $(".turn-page3").click(function(e){
       e.preventDefault();
+      $("body").removeClass("dark, light");
       $("body").addClass("light");
       $(".fifthPage").addClass("hide");
       $(".sixthPage").removeClass("hide");
@@ -180,41 +187,37 @@ $(document).ready(function(){
       $(".thirtyFivePage").removeClass("hide");
     });
 
-    // $(".left33").click(function(e){
-    //   e.preventDefault();
-    //   $("body").addClass("light");
-    //   $(".thirtyThreePage").addClass("hide");
-    //   $(".fifthPage").removeClass("hide");
-    // });
-    //
-    // $(".right33").click(function(e){
-    //   e.preventDefault();
-    //   $("body").addClass("dark");
-    //   $(".thirtyThreePage").addClass("hide");
-    //   $(".thirteenPage").removeClass("hide");
-    // });
-
-
-    // need path for right32
-
-
-// add buttons
-    $(".turn-page6").click(function(e){
+    $(".left34").click(function(e){
       e.preventDefault();
-      $("body").addClass("dark");
-      $(".eigthPage").addClass("hide");
-      $(".ninthPage").removeClass("hide");
+      $("body").addClass("light");
+      $(".thirtyFourPage").addClass("hide");
+      $(".fourteenPage").removeClass("hide");
     });
 
-    $(".turn-page6").click(function(e){
+    $(".right34").click(function(e){
       e.preventDefault();
       $("body").addClass("dark");
-      $(".eigthPage").addClass("hide");
-      $(".ninthPage").removeClass("hide");
+      $(".thirtyFourPage").addClass("hide");
+      $(".fifteenPage").removeClass("hide");
     });
 
+    $(".endHappy").click(function(e){
+      $("body").removeClass("light, dark");
+      $(".happy").removeClass("hide");
+    });
 
+    $(".endSad").click(function(e){
+      $("body").removeClass("light, dark");
+      $(".sad").removeClass("hide");
+    });
 
+    $(".endBittersweet").click(function(e){
+      $("body").removeClass("light, dark");
+      $(".bittersweet").removeClass("hide");
+    });
 
+    $('.reset').click(function() {
+       window.location.reload(true);
+     })
   });
 });
