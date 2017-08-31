@@ -1,28 +1,44 @@
 .hide {
   display: none;
 }
+
 body {
   background-image: url("../images/primary/coverbg.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
-
 }
+
 .cover-page {
+  position: relative;
   color: #9c7b43;
-  background-image: url("../images/BookCover.jpg");
   text-align: center;
   font-family: 'Fondamento', cursive;
 }
+
+.cover-bg {
+  z-index: -1;
+  bottom: 0;
+  right: 0;
+  background-image: url("../images/BookCover.jpg");
+}
+
+/*these classes will reverse the image*/
+.cover-bg.cover-bg-reverse {
+  transform: translate(-50%, -50%) scaleX(-1);
+}
+
 .ending p {
   font-size: 80px;
   margin-top: 100px;
 }
+
 .ending button {
   margin-top: 350px;
 }
-.cover-page, .quill-pages {
+
+.cover-page, .quill-pages, .cover-bg {
   height: 700px;
   width: 1170px;
   background-size: contain;
@@ -56,20 +72,6 @@ p {
   color: rgb(255, 248, 209);
 }
 
-/*.ending {
-  color: #9c7b43;
-  background-image: url("../images/BookCover.jpg");
-  position: relative;
-  height: 1162px;
-  width: 1425px;
-  text-align: center;
-  font-family: 'Fondamento', cursive;
-}*/
-
-/*.ending p {
-  font-size: 50px;
-}*/
-
 .quill-pages {
   background-image: url("../images/primary/quillBook.jpg");
 }
@@ -84,7 +86,11 @@ p {
 .img-container img {
   max-width: 100%;
   max-height: 450px;
-  margin-top: 150px;
+  margin-top: 75px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .story-container p {
@@ -118,4 +124,10 @@ p {
   font-family: cursive;
   font-weight: bold;
   font-size: 16px;
+}
+
+.img-container {
+  position: relative;
+  height: 594px;
+  width: 400px;
 }
