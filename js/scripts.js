@@ -202,23 +202,29 @@ $(document).ready(function(){
     $(".endHappy").click(function(e){
       e.preventDefault();
       $("body").removeClass("dark light");
+      $(".quill-pages").addClass("hide");
+      $(".ending").removeClass("hide");
       $(".happy").removeClass("hide");
     });
 
     $(".endSad").click(function(e){
       e.preventDefault();
       $("body").removeClass("dark light");
+      $(".quill-pages").addClass("hide");
+      $(".ending").removeClass("hide");
       $(".sad").removeClass("hide");
     });
 
     $(".endBittersweet").click(function(e){
       e.preventDefault();
       $("body").removeClass("dark light");
+      $(".quill-pages").addClass("hide");
+      $(".ending").removeClass("hide");
       $(".bittersweet").removeClass("hide");
     });
 
     $('.reset').click(function() {
        window.location.reload(true);
-     })
+     });
   });
 });
