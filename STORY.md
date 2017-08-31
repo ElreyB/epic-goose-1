@@ -251,7 +251,9 @@ Final Quote:  For there is no friend like a sister
                 To fetch one if one goes astray,
                 To lift one if one totters down,
                 To strengthen whilst one stands.
-Lorem ipsum
+
+Long years later, when both had children of their own, they would tell the story of the dangers of the woods and how a sister would stand fast in deadly peril to save the other. One cannot prevent the temptations in life, you can't keep the goblins from crying "Come Buy, come buy," but neither must you heed it. And, if your desire to know, to see, to taste overwhelms you, hopefully you'll have a clever sister nearby.
+
 *END*
 
 Page ThirtyFour:
@@ -263,7 +265,15 @@ Topping Quote:  PlayerOne talked about the haunted glen,
                 Their fruits like honey to the throat
                 But poison in the blood;
 
-PlayerTwo Choice: Go home *go to page 14* or Stay with the Goblins *go to page 15*
+Driven by her desire to help her sister, playerTwo was afraid to refuse the hospitality of the merchantmen. Reluctance easily mistaken for shyness, she settled carefully onto the soft moss, smoothing her empty apron over her lap. The goblins surrounded her, offering their multitude of wares.
+Chattering like animalInput1,
+Fluttering like animalInput3,
+Gliding like animalInput2,—
+Stretch’d up their dishes,
+Panniers, and plates
+She accepted a fruitInput and, like a swimmer plunges into a chilly lake, bit into the sweet flesh lest she change her mind. That bite led to a second and on and on as her hosts placed their strange harvest before her. Gone were her thoughts of home and PlayerOne, gone was her sense of day and night, stolen away along with her plan to hide a fruitInput in the folds of her apron. Hands sticky and mouth aching, thought and memory returned and playerTwo was alone. Her companions were not long departed as she could hear their song in the woods before her.
+
+PlayerTwo Choice: Go home *go to page 14* or Follow the Goblins *go to page 15*
 
 Page Thirteen:
 
@@ -284,6 +294,16 @@ Topping Quote:  Folks talked about the haunted glen,
                 Their fruits like honey to the throat
                 But poison in the blood;
 
+Foggy headed and empty handed, playerTwo turned homeward. Steps heavy with shame and dread she made the long slow walk out of the glen and up the garden path. Seeing her, playerOne, climbed from her chair and clutching her wan face with thin hands,
+  “playerTwo, playerTwo, have you tasted
+  For my sake the fruit forbidden?
+  Must your light like mine be hidden,
+  Your young life like mine be wasted,
+  Undone in mine undoing,
+  And ruin’d in my ruin,
+  Thirsty, canker’d, goblin-ridden?”—  
+Reaching her, playerTwo collapsed in her arms, following her sister into tears just as, weeks later, she followed her into the grave. Both were buried at the edge of the woods where, years later a fruitInput grew. Those who remember the tale of the two sisters say the fruit is cursed and all shun the eating of it.
+
 *END*
 
 Page Fifteen:
@@ -294,4 +314,16 @@ Topping Quote:  Took their gifts both choice and many,
                 Pluck’d from bowers
                 Where summer ripens at all hours?
 
+Clutching her empty apron between her sticky fruit-stained hands, playerTwo fought back a wave of despair. She had failed to obtain the fruit that would set playerOne free. Unable to return home bereft of that last hope, playerTwo did not know what to do or where to go. Again, the night breeze carried the cry "Come buy, come buy" and, turning slowly on her heel, playerTwo followed it into the dark forest.
+
 *END*
+
+Moral Assessments:
+Joyful
+
+You made it through the Goblin Market! It wasn't easy and sometimes the circumstances took you down a dark path, but you strove to find the light: protecting your loved ones and resisting the temptation of Goblin Fruit. Take care that your devotion to steady and safe doesn't keep you from entering the woods in the first place. After all, one needs the dark to appreciate the light.
+
+
+
+Tragic
+Your choices led to a tragic end, whether because of your own curiosity or that of another. While it may have brought you here, you are among the small society who have had a glimpse into the secreted world of the Goblin Market. Few others have tasted the Goblin Fruit. Sometimes the desire for knowledge, to see and experience the world around us, can be harshly rewarded, but no one can say yours is a life un-lived.
