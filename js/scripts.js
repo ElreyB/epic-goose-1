@@ -10,6 +10,7 @@ function User (name1, name2, fruit, hair) {
 
 function setMood(mood){
   $("body").removeClass("dark light").addClass(mood);
+
 }
 // function to count/add the moral value to the body
 // var moral = 0;
@@ -51,6 +52,7 @@ $(document).ready(function(){
     $(".playerTwo").text(newUser.name2);
     $(".fruitInput").text(newUser.fruit);
     $(".hairInput").text(newUser.hair);
+
 
     $("button#open-book").click(function(){
       setMood("light");

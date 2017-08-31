@@ -1,33 +1,10 @@
 .hide {
   display: none;
 }
-.playerOne {
+.playerOne, .playerTwo, .hairInput, .fruitInput, .animalInput0, .animalInput1, .animalInput2, .animalInput3, .animalInput4 {
   color: #c61f1f;
 }
-.playerTwo {
-  color: #c61f1f;
-}
-.hairInput {
-  color: #c61f1f;
-}
-.fruitInput {
-  color: #c61f1f;
-}
-.animalInput0 {
-  color: #c61f1f;
-}
-.animalInput1 {
-  color: #c61f1f;
-}
-.animalInput2 {
-  color: #c61f1f;
-}
-.animalInput3 {
-  color: #c61f1f;
-}
-.animalInput4 {
-  color: #c61f1f;
-}
+
 .decide {
   font-weight: bold;
 }
