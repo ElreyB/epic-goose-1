@@ -2,7 +2,7 @@
 
 #### _Epic-Goose: Epicodus exercise Team Project, 08.28.2017_
 
-#### By _**Elrey Belmonti, Magen Olson, and L. D. MacKless**_
+#### By _**Elrey Belmonti, Megan Olson, and L. D. MacKrell**_
 
 ## Description
 
