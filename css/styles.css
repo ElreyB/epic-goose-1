@@ -44,8 +44,6 @@ body {
 	margin-top: 100px;
 }
 
-.ending button {
-}
 .cover-page, .quill-pages, .cover-bg {
   height: 700px;
   width: 1170px;
@@ -117,4 +115,8 @@ p {
   position: relative;
   height: 594px;
   width: 400px;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
 }
