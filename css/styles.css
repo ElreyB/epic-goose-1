@@ -1,7 +1,13 @@
 .hide {
   display: none;
 }
+.playerOne, .playerTwo, .hairInput, .fruitInput, .animalInput0, .animalInput1, .animalInput2, .animalInput3, .animalInput4 {
+  color: #c61f1f;
+}
 
+.decide {
+  font-weight: bold;
+}
 body {
   background-image: url("../images/primary/coverbg.jpg");
   background-repeat: no-repeat;
@@ -16,19 +22,16 @@ body {
   text-align: center;
   font-family: 'Fondamento', cursive;
 }
-
 .cover-bg {
   z-index: -1;
   bottom: 0;
   right: 0;
   background-image: url("../images/BookCover.jpg");
 }
-
 /*these classes will reverse the image*/
 .cover-bg.cover-bg-reverse {
   transform: translate(-50%, -50%) scaleX(-1);
 }
-
 .ending p {
   font-size: 80px;
   margin-top: 100px;
@@ -37,7 +40,6 @@ body {
 .ending button {
   margin-top: 350px;
 }
-
 .cover-page, .quill-pages, .cover-bg {
   height: 700px;
   width: 1170px;
@@ -49,40 +51,32 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
 .firstLetter {
   font-family: 'UnifrakturMaguntia', cursive;
   font-size: 30px;
 }
-
 p {
   font-size: 17px;
   font-family:'Fondamento', cursive;
 }
-
 #open-book {
-  margin-top: 300px;
-  background-color: #9c7b43;
-  color: brown;
+  margin-top: 380px;
+  color: #9c7b43;
 }
-
 .reRead {
   background-color: #a0896b;
   font-family: 'Fondamento', cursive;
   color: rgb(255, 248, 209);
 }
-
 .quill-pages {
   background-image: url("../images/primary/quillBook.jpg");
 }
-
 .choice {
   background-color: #a0896b;
   font-family: 'Fondamento', cursive;
   color: rgb(255, 248, 209);
   margin-top: 10px;
 }
-
 .img-container img {
   max-width: 100%;
   max-height: 450px;
@@ -92,22 +86,18 @@ p {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
 .story-container p {
   max-height: 490px;
   margin-top: 100px;
   overflow: auto;
 }
-
 .cover-content {
   margin-top: 64px;
   margin-left: 40px;
 }
-
 .book-cover h1 {
   margin-top: 124px;
 }
-
 .photo-quote {
   position: absolute;
   width: 307px;
@@ -117,7 +107,6 @@ p {
   font-weight: bold;
   font-size: 16px;
 }
-
 .img-container {
   position: relative;
   height: 594px;
