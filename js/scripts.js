@@ -53,175 +53,149 @@ $(document).ready(function(){
     $(".fruitInput").text(newUser.fruit);
     $(".hairInput").text(newUser.hair);
 
-    $("button#open-book").click(function(e){
-      e.preventDefault();
+    $("button#open-book").click(function(){
       setMood("light");
       $(".cover-page").addClass("hide");
       $(".firstPage").removeClass("hide");
     });
 
-    $(".turn-page").click(function(e){
-     e.preventDefault();
-     setMood("light");
+    $(".turn-page").click(function(){
+      setMood("light");
      $(".firstPage").addClass("hide");
      $(".secondPage").removeClass("hide");
    });
 
-    $(".left2").click(function(e) {
-      e.preventDefault();
+    $(".left2").click(function() {
       setMood("dark");
       $(".secondPage").addClass("hide");
       $(".thirdPage").removeClass("hide");
     });
 
-    $(".right2").click(function(e) {
-      e.preventDefault();
+    $(".right2").click(function() {
       setMood("light");
       $(".secondPage").addClass("hide");
       $(".thirtyPage").removeClass("hide");
     });
 
-    $(".left3").click(function(e){
-      e.preventDefault();
+    $(".left3").click(function(){
       setMood("dark");
       $(".thirdPage").addClass("hide");
       $(".fourthPage").removeClass("hide");
     });
 
-    $(".right3").click(function(e){
-      e.preventDefault();
+    $(".right3").click(function(){
       setMood("light");
       $(".thirdPage").addClass("hide");
       $(".thirtyOnePage").removeClass("hide");
     });
 
-    $(".turn-page2").click(function(e){
-      e.preventDefault();
+    $(".turn-page2").click(function(){
       setMood("light");
       $(".fourthPage").addClass("hide");
       $(".fifthPage").removeClass("hide");
     });
-    $(".turn-page3").click(function(e){
-      e.preventDefault();
+    $(".turn-page3").click(function(){
       setMood("light");
       $(".fifthPage").addClass("hide");
       $(".sixthPage").removeClass("hide");
     });
-    $(".turn-page4").click(function(e){
-      e.preventDefault();
+    $(".turn-page4").click(function(){
       setMood("light")
       $(".sixthPage").addClass("hide");
       $(".seventhPage").removeClass("hide");
     });
-    $(".turn-page5").click(function(e){
-      e.preventDefault();
+    $(".turn-page5").click(function(){
       setMood("light");
       $(".seventhPage").addClass("hide");
       $(".eigthPage").removeClass("hide");
     });
-    $(".turn-page6").click(function(e){
-      e.preventDefault();
+    $(".turn-page6").click(function(){
       setMood("light");
       $(".eigthPage").addClass("hide");
       $(".ninthPage").removeClass("hide");
     });
-    $(".turn-page7").click(function(e){
-      e.preventDefault();
+    $(".turn-page7").click(function(){
       setMood("light");
       $(".tenPage").addClass("hide");
       $(".elevenPage").removeClass("hide");
     });
-    $(".turn-page8").click(function(e){
-      e.preventDefault();
+    $(".turn-page8").click(function(){
       setMood("light");
       $(".elevenPage").addClass("hide");
       $(".twelvePage").removeClass("hide");
     });
-    $(".left9").click(function(e){
-      e.preventDefault();
+    $(".left9").click(function(){
       setMood("light");
       $(".ninthPage").addClass("hide");
       $(".tenPage").removeClass("hide");
     });
-    $(".right9").click(function(e){
-      e.preventDefault();
+    $(".right9").click(function(){
       setMood("dark");
       $(".ninthPage").addClass("hide");
       $(".thirtyFourPage").removeClass("hide");
     });
 
-    $(".left31").click(function(e){
-      e.preventDefault();
+    $(".left31").click(function(){
       setMood("light");
       $(".thirtyOnePage").addClass("hide");
       $(".thirtyThreePage").removeClass("hide");
     });
 
-    $(".right31").click(function(e){
-      e.preventDefault();
+    $(".right31").click(function(){
       setMood("dark");
       $(".thirtyOnePage").addClass("hide");
       $(".thirtyTwoPage").removeClass("hide");
     });
 
-    $(".left32").click(function(e){
-      e.preventDefault();
+    $(".left32").click(function(){
       setMood("light");
       $(".thirtyTwoPage").addClass("hide");
       $(".fifthPage").removeClass("hide");
     });
 
-    $(".right32").click(function(e){
-      e.preventDefault();
+    $(".right32").click(function(){
       setMood("dark");
       $(".thirtyTwoPage").addClass("hide");
       $(".thirteenPage").removeClass("hide");
     });
 
-    $(".turn-page9").click(function(e){
-      e.preventDefault();
+    $(".turn-page9").click(function(){
       setMood("dark");
       $(".thirtyThreePage").addClass("hide");
       $(".thirtyFivePage").removeClass("hide");
     });
 
-    $(".left34").click(function(e){
-      e.preventDefault();
+    $(".left34").click(function(){
       setMood("light");
       $(".thirtyFourPage").addClass("hide");
       $(".fourteenPage").removeClass("hide");
     });
 
-    $(".right34").click(function(e){
-      e.preventDefault();
+    $(".right34").click(function(){
       setMood("dark");
       $(".thirtyFourPage").addClass("hide");
       $(".fifteenPage").removeClass("hide");
     });
 
-    $(".endHappy").click(function(e){
-      e.preventDefault();
+    $(".endHappy").click(function(){
       $("body").removeClass("dark light");
       $(".quill-pages").addClass("hide");
       $(".ending").removeClass("hide");
       $(".happy").removeClass("hide");
     });
-    $(".loop").click(function(e){
-      e.preventDefault();
+    $(".loop").click(function(){
       setMood("light");
       $(".thirtyPage").addClass("hide");
       $(".firstPage").removeClass("hide");
     });
-    $(".endSad").click(function(e){
-      e.preventDefault();
+    $(".endSad").click(function(){
       $("body").removeClass("dark light");
       $(".quill-pages").addClass("hide");
       $(".ending").removeClass("hide");
       $(".sad").removeClass("hide");
     });
 
-    $(".endBittersweet").click(function(e){
-      e.preventDefault();
+    $(".endBittersweet").click(function(){
       $("body").removeClass("dark light");
       $(".quill-pages").addClass("hide");
       $(".ending").removeClass("hide");
