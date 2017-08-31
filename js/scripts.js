@@ -55,167 +55,146 @@ $(document).ready(function(){
 
     $("button#open-book").click(function(e){
       e.preventDefault();
-      $("body").addClass("light");
+      setMood("light");
       $(".cover-page").addClass("hide");
       $(".firstPage").removeClass("hide");
     });
 
     $(".turn-page").click(function(e){
      e.preventDefault();
-     $("body").removeClass("dark light");
-     $("body").addClass("light");
+     setMood("light");
      $(".firstPage").addClass("hide");
      $(".secondPage").removeClass("hide");
    });
 
     $(".left2").click(function(e) {
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("dark");
+      setMood("dark");
       $(".secondPage").addClass("hide");
       $(".thirdPage").removeClass("hide");
     });
 
     $(".right2").click(function(e) {
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".secondPage").addClass("hide");
       $(".thirtyPage").removeClass("hide");
     });
 
     $(".left3").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("dark");
+      setMood("dark");
       $(".thirdPage").addClass("hide");
       $(".fourthPage").removeClass("hide");
     });
 
     $(".right3").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".thirdPage").addClass("hide");
       $(".thirtyOnePage").removeClass("hide");
     });
 
     $(".turn-page2").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".fourthPage").addClass("hide");
       $(".fifthPage").removeClass("hide");
     });
     $(".turn-page3").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".fifthPage").addClass("hide");
       $(".sixthPage").removeClass("hide");
     });
     $(".turn-page4").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light")
       $(".sixthPage").addClass("hide");
       $(".seventhPage").removeClass("hide");
     });
     $(".turn-page5").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".seventhPage").addClass("hide");
       $(".eigthPage").removeClass("hide");
     });
     $(".turn-page6").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".eigthPage").addClass("hide");
       $(".ninthPage").removeClass("hide");
     });
     $(".turn-page7").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".tenPage").addClass("hide");
       $(".elevenPage").removeClass("hide");
     });
     $(".turn-page8").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".elevenPage").addClass("hide");
       $(".twelvePage").removeClass("hide");
     });
     $(".left9").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".ninthPage").addClass("hide");
       $(".tenPage").removeClass("hide");
     });
     $(".right9").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("dark");
+      setMood("dark");
       $(".ninthPage").addClass("hide");
       $(".thirtyFourPage").removeClass("hide");
     });
 
     $(".left31").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".thirtyOnePage").addClass("hide");
       $(".thirtyThreePage").removeClass("hide");
     });
 
     $(".right31").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("dark");
+      setMood("dark");
       $(".thirtyOnePage").addClass("hide");
       $(".thirtyTwoPage").removeClass("hide");
     });
 
     $(".left32").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".thirtyTwoPage").addClass("hide");
       $(".fifthPage").removeClass("hide");
     });
 
     $(".right32").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("dark");
+      setMood("dark");
       $(".thirtyTwoPage").addClass("hide");
       $(".thirteenPage").removeClass("hide");
     });
 
     $(".turn-page9").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("dark");
+      setMood("dark");
       $(".thirtyThreePage").addClass("hide");
       $(".thirtyFivePage").removeClass("hide");
     });
 
     $(".left34").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("light");
+      setMood("light");
       $(".thirtyFourPage").addClass("hide");
       $(".fourteenPage").removeClass("hide");
     });
 
     $(".right34").click(function(e){
       e.preventDefault();
-      $("body").removeClass("dark light");
-      $("body").addClass("dark");
+      setMood("dark");
       $(".thirtyFourPage").addClass("hide");
       $(".fifteenPage").removeClass("hide");
     });
