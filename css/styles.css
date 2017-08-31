@@ -99,14 +99,6 @@ p {
   overflow: auto;
 }
 
-.good {
-  background-color: red;
-}
-
-.bad {
-  background-color: green;
-}
-
 .cover-content {
   margin-top: 64px;
   margin-left: 40px;
