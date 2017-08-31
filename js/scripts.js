@@ -8,6 +8,10 @@ function User (name1, name2, fruit, hair) {
   this.animals = [];
 }
 
+function setMood(mood){
+  $("body").removeClass("dark light").addClass(mood);
+}
+
 // function to count/add the moral value to the body
 // var moral = 0;
 // function setMoral(diff){
