@@ -206,7 +206,12 @@ $(document).ready(function(){
       $(".ending").removeClass("hide");
       $(".happy").removeClass("hide");
     });
-
+    $(".loop").click(function(e){
+      e.preventDefault();
+      setMood("light");
+      $(".thirtyPage").addClass("hide");
+      $(".firstPage").removeClass("hide");
+    });
     $(".endSad").click(function(e){
       e.preventDefault();
       $("body").removeClass("dark light");
