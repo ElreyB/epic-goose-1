@@ -4,9 +4,12 @@
 
 #### By _**Elrey Belmonti, Megan Olson, and L. D. MacKrell**_
 
+<img width="1280" alt="Screen Shot 2020-02-20 at 5 56 30 AM" src="https://user-images.githubusercontent.com/20192033/74940261-01e9d680-53a6-11ea-9fb0-ed755701b1ed.png">
+
+
 ## Description
 
-_This app will change the "Goblin Market story based on the choices you make when the times comes. Choose wisely_
+_This app will change the "Goblin Market" story based on the choices you make when the times comes. Choose wisely_
 
 ## Setup/Installation Requirements
 
